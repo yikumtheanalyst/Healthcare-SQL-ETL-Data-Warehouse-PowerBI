@@ -1,0 +1,121 @@
+﻿provider_id,name,department,specialty,npi,inhouse,location,years_experience,contact_info,email
+PRV00001,Dr. Avery Hill,Primary Care,Family Medicine,1000000001,Yes,North Clinic,19,555-600-0001,provider00001@example.test
+PRV00002,Dr. Jordan Patel,Emergency Department,Emergency Medicine,1000000002,Yes,South Clinic,28,555-600-0002,provider00002@example.test
+PRV00003,Dr. Riley Clark,Cardiology,General Cardiology,1000000003,Yes,North Clinic,7,555-600-0003,provider00003@example.test
+PRV00004,Dr. Quinn Young,Orthopedics,Orthopedic Surgery,1000000004,Yes,Main Campus,19,555-600-0004,provider00004@example.test
+PRV00005,Dr. Riley Garcia,Emergency Department,Pediatric Emergency Medicine,1000000005,Yes,Main Campus,22,555-600-0005,provider00005@example.test
+PRV00006,Dr. Alex Clark,Pulmonology,Pulmonary Medicine,1000000006,Yes,Main Campus,23,555-600-0006,provider00006@example.test
+PRV00007,Dr. Riley Young,Primary Care,Internal Medicine,1000000007,Yes,Main Campus,27,555-600-0007,provider00007@example.test
+PRV00008,Dr. Robin Lee,Pediatrics,General Pediatrics,1000000008,Yes,South Clinic,10,555-600-0008,provider00008@example.test
+PRV00009,Dr. Robin Davis,Urology,General Urology,1000000009,Yes,South Clinic,33,555-600-0009,provider00009@example.test
+PRV00010,Dr. Taylor Johnson,General Surgery,General Surgery,1000000010,Yes,South Clinic,34,555-600-0010,provider00010@example.test
+PRV00011,Dr. Jamie Clark,Primary Care,General Practice,1000000011,Yes,North Clinic,34,555-600-0011,provider00011@example.test
+PRV00012,Dr. Taylor Wilson,Pediatrics,Pediatric Cardiology,1000000012,Yes,North Clinic,30,555-600-0012,provider00012@example.test
+PRV00013,Dr. Devin Allen,Primary Care,Family Medicine,1000000013,Yes,South Clinic,10,555-600-0013,provider00013@example.test
+PRV00014,Dr. Sam Miller,Emergency Department,Emergency Medicine - Critical Care,1000000014,Yes,North Clinic,22,555-600-0014,provider00014@example.test
+PRV00015,Dr. Taylor Clark,Cardiology,Interventional Cardiology,1000000015,Yes,South Clinic,22,555-600-0015,provider00015@example.test
+PRV00016,Dr. Cameron Patel,Orthopedics,Sports Medicine,1000000016,Yes,South Clinic,6,555-600-0016,provider00016@example.test
+PRV00017,Dr. Quinn Clark,Orthopedics,Hand Surgery,1000000017,Yes,North Clinic,8,555-600-0017,provider00017@example.test
+PRV00018,Dr. Robin Wright,Pulmonology,Critical Care Medicine,1000000018,Yes,South Clinic,26,555-600-0018,provider00018@example.test
+PRV00019,Dr. Robin Clark,Neurology,General Neurology,1000000019,Yes,North Clinic,27,555-600-0019,provider00019@example.test
+PRV00020,Dr. Parker Johnson,Emergency Department,Emergency Medicine,1000000020,Yes,South Clinic,8,555-600-0020,provider00020@example.test
+PRV00021,Dr. Harper King,Emergency Department,Pediatric Emergency Medicine,1000000021,Yes,Main Campus,23,555-600-0021,provider00021@example.test
+PRV00022,Dr. Taylor Lee,General Surgery,Trauma Surgery,1000000022,Yes,South Clinic,6,555-600-0022,provider00022@example.test
+PRV00023,Dr. Taylor Patel,Emergency Department,Emergency Medicine - Critical Care,1000000023,Yes,Main Campus,31,555-600-0023,provider00023@example.test
+PRV00024,Dr. Robin Allen,Pediatrics,Pediatric Endocrinology,1000000024,Yes,South Clinic,34,555-600-0024,provider00024@example.test
+PRV00025,Dr. Jamie Patel,Primary Care,Internal Medicine,1000000025,Yes,Main Campus,6,555-600-0025,provider00025@example.test
+PRV00026,Dr. Taylor Miller,Emergency Department,Emergency Medicine,1000000026,Yes,North Clinic,4,555-600-0026,provider00026@example.test
+PRV00027,Dr. Dana Clark,Cardiology,Cardiac Electrophysiology,1000000027,Yes,Main Campus,17,555-600-0027,provider00027@example.test
+PRV00028,Dr. Cameron Young,Orthopedics,Orthopedic Surgery,1000000028,Yes,North Clinic,22,555-600-0028,provider00028@example.test
+PRV00029,Dr. Casey Garcia,Primary Care,General Practice,1000000029,Yes,North Clinic,7,555-600-0029,provider00029@example.test
+PRV00030,Dr. Devin Hill,Pulmonology,Sleep Medicine,1000000030,Yes,Main Campus,14,555-600-0030,provider00030@example.test
+PRV00031,Dr. Robin Wright,Neurology,Vascular Neurology,1000000031,Yes,Main Campus,21,555-600-0031,provider00031@example.test
+PRV00032,Dr. Riley Lee,Primary Care,Family Medicine,1000000032,Yes,South Clinic,16,555-600-0032,provider00032@example.test
+PRV00033,Dr. Alex Johnson,Emergency Department,Pediatric Emergency Medicine,1000000033,Yes,South Clinic,16,555-600-0033,provider00033@example.test
+PRV00034,Dr. Parker Wilson,General Surgery,Surgical Oncology,1000000034,Yes,South Clinic,21,555-600-0034,provider00034@example.test
+PRV00035,Dr. Jordan Garcia,Primary Care,Internal Medicine,1000000035,Yes,Main Campus,15,555-600-0035,provider00035@example.test
+PRV00036,Dr. Dana Allen,Pediatrics,General Pediatrics,1000000036,Yes,North Clinic,18,555-600-0036,provider00036@example.test
+PRV00037,Dr. Sam Young,Primary Care,General Practice,1000000037,Yes,South Clinic,12,555-600-0037,provider00037@example.test
+PRV00038,Dr. Jamie Scott,Emergency Department,Emergency Medicine - Critical Care,1000000038,Yes,South Clinic,19,555-600-0038,provider00038@example.test
+PRV00039,Dr. Jordan Wilson,Cardiology,General Cardiology,1000000039,Yes,Main Campus,34,555-600-0039,provider00039@example.test
+PRV00040,Dr. Cameron Clark,Orthopedics,Sports Medicine,1000000040,Yes,Main Campus,3,555-600-0040,provider00040@example.test
+PRV00041,Dr. Morgan Scott,Endocrinology,Endocrinology,1000000041,Yes,South Clinic,19,555-600-0041,provider00041@example.test
+PRV00042,Dr. Casey Robinson,Pulmonology,Pulmonary Medicine,1000000042,Yes,North Clinic,31,555-600-0042,provider00042@example.test
+PRV00043,Dr. Morgan King,Cardiology,Interventional Cardiology,1000000043,Yes,North Clinic,34,555-600-0043,provider00043@example.test
+PRV00044,Dr. Morgan Davis,Gastroenterology,Gastroenterology,1000000044,Yes,South Clinic,25,555-600-0044,provider00044@example.test
+PRV00045,Dr. Casey Garcia,Primary Care,Family Medicine,1000000045,Yes,North Clinic,7,555-600-0045,provider00045@example.test
+PRV00046,Dr. Jamie Lee,General Surgery,General Surgery,1000000046,Yes,Main Campus,20,555-600-0046,provider00046@example.test
+PRV00047,Dr. Jamie Garcia,Emergency Department,Emergency Medicine,1000000047,Yes,Main Campus,4,555-600-0047,provider00047@example.test
+PRV00048,Dr. Harper Young,Pediatrics,Pediatric Cardiology,1000000048,Yes,North Clinic,28,555-600-0048,provider00048@example.test
+PRV00049,Dr. Riley King,Primary Care,Internal Medicine,1000000049,Yes,North Clinic,25,555-600-0049,provider00049@example.test
+PRV00050,Dr. Cameron Davis,Emergency Department,Pediatric Emergency Medicine,1000000050,Yes,Main Campus,15,555-600-0050,provider00050@example.test
+PRV00051,Dr. Cameron Robinson,Cardiology,Cardiac Electrophysiology,1000000051,Yes,Main Campus,20,555-600-0051,provider00051@example.test
+PRV00052,Dr. Casey Allen,Orthopedics,Hand Surgery,1000000052,Yes,North Clinic,14,555-600-0052,provider00052@example.test
+PRV00053,Dr. Taylor Clark,Emergency Department,Emergency Medicine - Critical Care,1000000053,Yes,South Clinic,10,555-600-0053,provider00053@example.test
+PRV00054,Dr. Robin Brown,Pulmonology,Critical Care Medicine,1000000054,Yes,Main Campus,25,555-600-0054,provider00054@example.test
+PRV00055,Dr. Parker Davis,Emergency Department,Emergency Medicine,1000000055,Yes,North Clinic,34,555-600-0055,provider00055@example.test
+PRV00056,Dr. Casey Davis,Primary Care,General Practice,1000000056,Yes,North Clinic,11,555-600-0056,provider00056@example.test
+PRV00057,Dr. Harper Garcia,Cardiology,General Cardiology,1000000057,Yes,Main Campus,25,555-600-0057,provider00057@example.test
+PRV00058,Dr. Jamie Robinson,General Surgery,Trauma Surgery,1000000058,Yes,North Clinic,26,555-600-0058,provider00058@example.test
+PRV00059,Dr. Riley King,Emergency Department,Pediatric Emergency Medicine,1000000059,Yes,Main Campus,4,555-600-0059,provider00059@example.test
+PRV00060,Dr. Casey Wright,Pediatrics,Pediatric Endocrinology,1000000060,Yes,South Clinic,10,555-600-0060,provider00060@example.test
+PRV00061,Dr. Jamie Lee,Primary Care,Family Medicine,1000000061,Yes,Main Campus,13,555-600-0061,provider00061@example.test
+PRV00062,Dr. Alex Davis,Emergency Department,Emergency Medicine - Critical Care,1000000062,Yes,North Clinic,23,555-600-0062,provider00062@example.test
+PRV00063,Dr. Harper Johnson,Cardiology,Interventional Cardiology,1000000063,Yes,North Clinic,6,555-600-0063,provider00063@example.test
+PRV00064,Dr. Robin King,Orthopedics,Orthopedic Surgery,1000000064,Yes,South Clinic,35,555-600-0064,provider00064@example.test
+PRV00065,Dr. Avery Davis,Primary Care,Internal Medicine,1000000065,Yes,North Clinic,19,555-600-0065,provider00065@example.test
+PRV00066,Dr. Jamie Hill,Primary Care,General Practice,1000000066,Yes,South Clinic,6,555-600-0066,provider00066@example.test
+PRV00067,Dr. Jordan Wilson,Neurology,Epilepsy,1000000067,Yes,Main Campus,27,555-600-0067,provider00067@example.test
+PRV00068,Dr. Parker Patel,Gastroenterology,Hepatology,1000000068,Yes,South Clinic,7,555-600-0068,provider00068@example.test
+PRV00069,Dr. Harper Robinson,Primary Care,Family Medicine,1000000069,Yes,North Clinic,34,555-600-0069,provider00069@example.test
+PRV00070,Dr. Jordan Hill,General Surgery,Surgical Oncology,1000000070,Yes,Main Campus,34,555-600-0070,provider00070@example.test
+PRV00071,Dr. Quinn Brown,Obstetrics & Gynecology,Obstetrics and Gynecology,1000000071,Yes,South Clinic,20,555-600-0071,provider00071@example.test
+PRV00072,Dr. Riley Patel,Pediatrics,General Pediatrics,1000000072,Yes,South Clinic,20,555-600-0072,provider00072@example.test
+PRV00073,Dr. Dana Clark,Primary Care,Internal Medicine,1000000073,Yes,South Clinic,30,555-600-0073,provider00073@example.test
+PRV00074,Dr. Cameron Young,Emergency Department,Emergency Medicine,1000000074,Yes,Main Campus,18,555-600-0074,provider00074@example.test
+PRV00075,Dr. Morgan Young,Cardiology,Cardiac Electrophysiology,1000000075,Yes,North Clinic,23,555-600-0075,provider00075@example.test
+PRV00076,Dr. Casey Garcia,Orthopedics,Sports Medicine,1000000076,Yes,North Clinic,35,555-600-0076,provider00076@example.test
+PRV00077,Dr. Dana Miller,Emergency Department,Pediatric Emergency Medicine,1000000077,Yes,North Clinic,15,555-600-0077,provider00077@example.test
+PRV00078,Dr. Robin Wright,Cardiology,General Cardiology,1000000078,Yes,North Clinic,14,555-600-0078,provider00078@example.test
+PRV00079,Dr. Sam King,Neurology,General Neurology,1000000079,Yes,Main Campus,26,555-600-0079,provider00079@example.test
+PRV00080,Dr. Casey Wright,Gastroenterology,Advanced Endoscopy,1000000080,Yes,Main Campus,6,555-600-0080,provider00080@example.test
+PRV00081,Dr. Riley Miller,Primary Care,General Practice,1000000081,Yes,Main Campus,9,555-600-0081,provider00081@example.test
+PRV00082,Dr. Devin Hill,General Surgery,General Surgery,1000000082,Yes,South Clinic,30,555-600-0082,provider00082@example.test
+PRV00083,Dr. Jamie Davis,Obstetrics & Gynecology,Maternal-Fetal Medicine,1000000083,Yes,North Clinic,18,555-600-0083,provider00083@example.test
+PRV00084,Dr. Jordan Robinson,Pediatrics,Pediatric Cardiology,1000000084,Yes,North Clinic,22,555-600-0084,provider00084@example.test
+PRV00085,Dr. Avery Brown,Primary Care,Family Medicine,1000000085,Yes,South Clinic,5,555-600-0085,provider00085@example.test
+PRV00086,Dr. Alex Davis,Emergency Department,Emergency Medicine - Critical Care,1000000086,Yes,North Clinic,5,555-600-0086,provider00086@example.test
+PRV00087,Dr. Riley Wilson,Cardiology,Interventional Cardiology,1000000087,Yes,North Clinic,12,555-600-0087,provider00087@example.test
+PRV00088,Dr. Riley Wright,Orthopedics,Hand Surgery,1000000088,Yes,North Clinic,9,555-600-0088,provider00088@example.test
+PRV00089,Dr. Cameron Hill,Endocrinology,Diabetes & Metabolism,1000000089,Yes,Main Campus,14,555-600-0089,provider00089@example.test
+PRV00090,Dr. Morgan Wright,Pulmonology,Sleep Medicine,1000000090,Yes,South Clinic,21,555-600-0090,provider00090@example.test
+PRV00091,Dr. Harper Johnson,Neurology,Vascular Neurology,1000000091,Yes,North Clinic,15,555-600-0091,provider00091@example.test
+PRV00092,Dr. Parker Garcia,Cardiology,Cardiac Electrophysiology,1000000092,Yes,North Clinic,11,555-600-0092,provider00092@example.test
+PRV00093,Dr. Dana Robinson,Primary Care,Internal Medicine,1000000093,Yes,South Clinic,24,555-600-0093,provider00093@example.test
+PRV00094,Dr. Devin King,General Surgery,Trauma Surgery,1000000094,Yes,South Clinic,17,555-600-0094,provider00094@example.test
+PRV00095,Dr. Jamie Garcia,Obstetrics & Gynecology,Gynecologic Oncology,1000000095,Yes,Main Campus,30,555-600-0095,provider00095@example.test
+PRV00096,Dr. Dana Lee,Pediatrics,Pediatric Endocrinology,1000000096,Yes,Main Campus,26,555-600-0096,provider00096@example.test
+PRV00097,Dr. Morgan Garcia,Primary Care,General Practice,1000000097,Yes,North Clinic,4,555-600-0097,provider00097@example.test
+PRV00098,Dr. Harper Garcia,Emergency Department,Emergency Medicine,1000000098,Yes,South Clinic,22,555-600-0098,provider00098@example.test
+PRV00099,Dr. Devin Johnson,Cardiology,General Cardiology,1000000099,Yes,Main Campus,21,555-600-0099,provider00099@example.test
+PRV00100,Dr. Taylor Garcia,Orthopedics,Orthopedic Surgery,1000000100,Yes,South Clinic,16,555-600-0100,provider00100@example.test
+PRV00101,Dr. Cameron Lee,Endocrinology,Reproductive Endocrinology,1000000101,Yes,Main Campus,7,555-600-0101,provider00101@example.test
+PRV00102,Dr. Casey Wilson,Pulmonology,Pulmonary Medicine,1000000102,Yes,North Clinic,31,555-600-0102,provider00102@example.test
+PRV00103,Dr. Avery Johnson,Neurology,Epilepsy,1000000103,Yes,South Clinic,7,555-600-0103,provider00103@example.test
+PRV00104,Dr. Devin Scott,Gastroenterology,Gastroenterology,1000000104,Yes,Main Campus,12,555-600-0104,provider00104@example.test
+PRV00105,Dr. Jordan Brown,Urology,Urologic Oncology,1000000105,Yes,South Clinic,13,555-600-0105,provider00105@example.test
+PRV00106,Dr. Morgan Robinson,General Surgery,Surgical Oncology,1000000106,Yes,North Clinic,3,555-600-0106,provider00106@example.test
+PRV00107,Dr. Riley Scott,Primary Care,Family Medicine,1000000107,Yes,South Clinic,14,555-600-0107,provider00107@example.test
+PRV00108,Dr. Morgan Allen,Pediatrics,General Pediatrics,1000000108,Yes,North Clinic,23,555-600-0108,provider00108@example.test
+PRV00109,Dr. Alex Patel,Primary Care,Internal Medicine,1000000109,Yes,North Clinic,32,555-600-0109,provider00109@example.test
+PRV00110,Dr. Taylor Hill,Emergency Department,Pediatric Emergency Medicine,1000000110,Yes,North Clinic,22,555-600-0110,provider00110@example.test
+PRV00111,Dr. Riley Miller,Cardiology,Interventional Cardiology,1000000111,Yes,Main Campus,13,555-600-0111,provider00111@example.test
+PRV00112,Dr. Cameron Davis,Orthopedics,Sports Medicine,1000000112,Yes,North Clinic,5,555-600-0112,provider00112@example.test
+PRV00113,Dr. Alex Garcia,Endocrinology,Endocrinology,1000000113,Yes,Main Campus,13,555-600-0113,provider00113@example.test
+PRV00114,Dr. Devin Miller,Pulmonology,Critical Care Medicine,1000000114,Yes,North Clinic,16,555-600-0114,provider00114@example.test
+PRV00115,Dr. Parker King,Neurology,General Neurology,1000000115,Yes,North Clinic,35,555-600-0115,provider00115@example.test
+PRV00116,Dr. Devin Brown,Gastroenterology,Hepatology,1000000116,Yes,South Clinic,20,555-600-0116,provider00116@example.test
+PRV00117,Dr. Parker Miller,Primary Care,General Practice,1000000117,Yes,Main Campus,11,555-600-0117,provider00117@example.test
+PRV00118,Dr. Avery Garcia,General Surgery,General Surgery,1000000118,Yes,North Clinic,11,555-600-0118,provider00118@example.test
+PRV00119,Dr. Parker Garcia,Orthopedics,Hand Surgery,1000000119,Yes,North Clinic,13,555-600-0119,provider00119@example.test
+PRV00120,Dr. Dana Davis,Pediatrics,Pediatric Cardiology,1000000120,Yes,Main Campus,23,555-600-0120,provider00120@example.test

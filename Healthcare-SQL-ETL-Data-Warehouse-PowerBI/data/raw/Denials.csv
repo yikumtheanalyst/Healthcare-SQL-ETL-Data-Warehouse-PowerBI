@@ -1,0 +1,1079 @@
+﻿claim_id,denial_id,denial_reason_code,denial_reason_description,denied_amount,denial_date,appeal_filed,appeal_status,appeal_resolution_date,fina_outcome
+CLM0000020,DEN0000001,CO-29,Timely filing limit expired,1066.85,2024-03-06,Yes,Approved,2024-04-10,Approved
+CLM0000023,DEN0000002,CO-197,Precertification or authorization absent,245.99,2024-01-27,No,Not Appealed,,Not Appealed
+CLM0000024,DEN0000003,CO-50,Service not medically necessary,360.29,2024-02-25,No,Not Appealed,,Not Appealed
+CLM0000052,DEN0000004,CO-96,Non-covered charge,174.55,2024-02-01,No,Not Appealed,,Not Appealed
+CLM0000066,DEN0000005,CO-16,Missing or incomplete claim information,431.20,2024-02-01,No,Not Appealed,,Not Appealed
+CLM0000068,DEN0000006,CO-16,Missing or incomplete claim information,203.71,2024-03-03,No,Not Appealed,,Not Appealed
+CLM0000077,DEN0000007,CO-18,Duplicate claim or service,184.20,2024-03-07,No,Not Appealed,,Not Appealed
+CLM0000100,DEN0000008,CO-29,Timely filing limit expired,292.91,2024-02-29,No,Not Appealed,,Not Appealed
+CLM0000104,DEN0000009,CO-29,Timely filing limit expired,206.10,2024-02-07,No,Not Appealed,,Not Appealed
+CLM0000108,DEN0000010,CO-18,Duplicate claim or service,262.22,2024-02-24,Yes,Approved,2024-03-25,Approved
+CLM0000109,DEN0000011,CO-29,Timely filing limit expired,1894.18,2024-02-12,Yes,Denied,2024-03-28,Denied
+CLM0000132,DEN0000012,CO-29,Timely filing limit expired,208.50,2024-03-02,Yes,Denied,2024-05-18,Denied
+CLM0000140,DEN0000013,CO-18,Duplicate claim or service,1440.20,2024-02-03,Yes,Pending,,Pending
+CLM0000147,DEN0000014,CO-96,Non-covered charge,149.97,2024-03-13,Yes,Denied,2024-03-28,Denied
+CLM0000181,DEN0000015,CO-197,Precertification or authorization absent,198.72,2024-03-09,No,Not Appealed,,Not Appealed
+CLM0000193,DEN0000016,CO-18,Duplicate claim or service,12292.23,2024-03-03,No,Not Appealed,,Not Appealed
+CLM0000198,DEN0000017,CO-18,Duplicate claim or service,332.81,2024-03-05,No,Not Appealed,,Not Appealed
+CLM0000245,DEN0000018,CO-197,Precertification or authorization absent,847.86,2024-03-13,No,Not Appealed,,Not Appealed
+CLM0000258,DEN0000019,CO-18,Duplicate claim or service,157.49,2024-03-08,No,Not Appealed,,Not Appealed
+CLM0000272,DEN0000020,CO-18,Duplicate claim or service,317.80,2024-03-15,No,Not Appealed,,Not Appealed
+CLM0000275,DEN0000021,CO-18,Duplicate claim or service,236.98,2024-02-27,Yes,Approved,2024-04-01,Approved
+CLM0000307,DEN0000022,CO-96,Non-covered charge,201.56,2024-02-25,No,Not Appealed,,Not Appealed
+CLM0000314,DEN0000023,CO-29,Timely filing limit expired,318.84,2024-03-23,Yes,Denied,2024-05-23,Denied
+CLM0000317,DEN0000024,CO-16,Missing or incomplete claim information,1135.83,2024-02-18,No,Not Appealed,,Not Appealed
+CLM0000332,DEN0000025,CO-96,Non-covered charge,6715.68,2024-03-29,No,Not Appealed,,Not Appealed
+CLM0000338,DEN0000026,CO-16,Missing or incomplete claim information,265.46,2024-02-29,No,Not Appealed,,Not Appealed
+CLM0000345,DEN0000027,CO-50,Service not medically necessary,306.15,2024-02-11,No,Not Appealed,,Not Appealed
+CLM0000382,DEN0000028,CO-197,Precertification or authorization absent,1939.50,2024-02-10,No,Not Appealed,,Not Appealed
+CLM0000392,DEN0000029,CO-50,Service not medically necessary,173.25,2024-03-13,No,Not Appealed,,Not Appealed
+CLM0000399,DEN0000030,CO-29,Timely filing limit expired,176.94,2024-02-10,No,Not Appealed,,Not Appealed
+CLM0000409,DEN0000031,CO-18,Duplicate claim or service,215.09,2024-03-24,No,Not Appealed,,Not Appealed
+CLM0000413,DEN0000032,CO-96,Non-covered charge,1279.59,2024-03-25,Yes,Approved,2024-05-25,Approved
+CLM0000415,DEN0000033,CO-18,Duplicate claim or service,1763.67,2024-03-06,No,Not Appealed,,Not Appealed
+CLM0000417,DEN0000034,CO-29,Timely filing limit expired,272.09,2024-03-02,No,Not Appealed,,Not Appealed
+CLM0000428,DEN0000035,CO-18,Duplicate claim or service,231.22,2024-02-16,No,Not Appealed,,Not Appealed
+CLM0000431,DEN0000036,CO-197,Precertification or authorization absent,178.88,2024-02-16,No,Not Appealed,,Not Appealed
+CLM0000439,DEN0000037,CO-50,Service not medically necessary,1140.99,2024-03-16,No,Not Appealed,,Not Appealed
+CLM0000464,DEN0000038,CO-16,Missing or incomplete claim information,248.20,2024-04-14,Yes,Pending,,Pending
+CLM0000474,DEN0000039,CO-29,Timely filing limit expired,1367.93,2024-02-21,Yes,Denied,2024-04-18,Denied
+CLM0000495,DEN0000040,CO-29,Timely filing limit expired,101.17,2024-03-08,No,Not Appealed,,Not Appealed
+CLM0000497,DEN0000041,CO-50,Service not medically necessary,500.77,2024-02-27,Yes,Approved,2024-04-09,Approved
+CLM0000525,DEN0000042,CO-197,Precertification or authorization absent,342.14,2024-04-05,No,Not Appealed,,Not Appealed
+CLM0000526,DEN0000043,CO-29,Timely filing limit expired,11487.06,2024-04-14,Yes,Approved,2024-05-18,Approved
+CLM0000535,DEN0000044,CO-29,Timely filing limit expired,189.03,2024-03-13,Yes,Pending,,Pending
+CLM0000542,DEN0000045,CO-16,Missing or incomplete claim information,1360.89,2024-04-10,No,Not Appealed,,Not Appealed
+CLM0000543,DEN0000046,CO-197,Precertification or authorization absent,557.58,2024-04-25,No,Not Appealed,,Not Appealed
+CLM0000566,DEN0000047,CO-18,Duplicate claim or service,227.45,2024-04-11,No,Not Appealed,,Not Appealed
+CLM0000567,DEN0000048,CO-16,Missing or incomplete claim information,1083.76,2024-03-31,No,Not Appealed,,Not Appealed
+CLM0000575,DEN0000049,CO-50,Service not medically necessary,230.58,2024-03-24,No,Not Appealed,,Not Appealed
+CLM0000577,DEN0000050,CO-16,Missing or incomplete claim information,227.92,2024-02-29,Yes,Approved,2024-04-28,Approved
+CLM0000593,DEN0000051,CO-50,Service not medically necessary,271.18,2024-04-05,No,Not Appealed,,Not Appealed
+CLM0000598,DEN0000052,CO-197,Precertification or authorization absent,179.49,2024-04-13,No,Not Appealed,,Not Appealed
+CLM0000607,DEN0000053,CO-96,Non-covered charge,1724.00,2024-03-02,No,Not Appealed,,Not Appealed
+CLM0000612,DEN0000054,CO-29,Timely filing limit expired,1134.22,2024-03-31,No,Not Appealed,,Not Appealed
+CLM0000614,DEN0000055,CO-16,Missing or incomplete claim information,139.07,2024-03-17,Yes,Denied,2024-05-20,Denied
+CLM0000621,DEN0000056,CO-96,Non-covered charge,883.52,2024-03-18,No,Not Appealed,,Not Appealed
+CLM0000633,DEN0000057,CO-50,Service not medically necessary,194.80,2024-04-04,Yes,Denied,2024-04-21,Denied
+CLM0000637,DEN0000058,CO-50,Service not medically necessary,239.56,2024-04-28,No,Not Appealed,,Not Appealed
+CLM0000651,DEN0000059,CO-29,Timely filing limit expired,191.84,2024-04-14,No,Not Appealed,,Not Appealed
+CLM0000657,DEN0000060,CO-16,Missing or incomplete claim information,1081.97,2024-04-03,No,Not Appealed,,Not Appealed
+CLM0000661,DEN0000061,CO-50,Service not medically necessary,2254.22,2024-04-04,No,Not Appealed,,Not Appealed
+CLM0000688,DEN0000062,CO-18,Duplicate claim or service,341.03,2024-03-16,Yes,Pending,,Pending
+CLM0000689,DEN0000063,CO-29,Timely filing limit expired,509.70,2024-04-09,No,Not Appealed,,Not Appealed
+CLM0000695,DEN0000064,CO-50,Service not medically necessary,316.12,2024-04-16,Yes,Pending,,Pending
+CLM0000701,DEN0000065,CO-197,Precertification or authorization absent,349.42,2024-04-17,Yes,Approved,2024-05-24,Approved
+CLM0000707,DEN0000066,CO-50,Service not medically necessary,187.92,2024-04-20,Yes,Approved,2024-05-09,Approved
+CLM0000709,DEN0000067,CO-16,Missing or incomplete claim information,1213.95,2024-03-15,No,Not Appealed,,Not Appealed
+CLM0000729,DEN0000068,CO-16,Missing or incomplete claim information,268.00,2024-03-16,No,Not Appealed,,Not Appealed
+CLM0000747,DEN0000069,CO-29,Timely filing limit expired,515.47,2024-04-10,No,Not Appealed,,Not Appealed
+CLM0000772,DEN0000070,CO-16,Missing or incomplete claim information,242.87,2024-03-23,No,Not Appealed,,Not Appealed
+CLM0000773,DEN0000071,CO-96,Non-covered charge,141.25,2024-04-10,No,Not Appealed,,Not Appealed
+CLM0000795,DEN0000072,CO-18,Duplicate claim or service,237.56,2024-04-02,No,Not Appealed,,Not Appealed
+CLM0000809,DEN0000073,CO-16,Missing or incomplete claim information,1617.48,2024-04-06,Yes,Approved,2024-05-06,Approved
+CLM0000810,DEN0000074,CO-18,Duplicate claim or service,170.11,2024-03-30,No,Not Appealed,,Not Appealed
+CLM0000815,DEN0000075,CO-50,Service not medically necessary,544.99,2024-04-29,No,Not Appealed,,Not Appealed
+CLM0000821,DEN0000076,CO-50,Service not medically necessary,226.62,2024-04-22,No,Not Appealed,,Not Appealed
+CLM0000825,DEN0000077,CO-29,Timely filing limit expired,12036.08,2024-03-17,No,Not Appealed,,Not Appealed
+CLM0000830,DEN0000078,CO-29,Timely filing limit expired,108.42,2024-04-07,Yes,Approved,2024-05-11,Approved
+CLM0000836,DEN0000079,CO-29,Timely filing limit expired,801.94,2024-04-16,Yes,Pending,,Pending
+CLM0000842,DEN0000080,CO-16,Missing or incomplete claim information,571.32,2024-04-27,Yes,Denied,2024-07-16,Denied
+CLM0000870,DEN0000081,CO-18,Duplicate claim or service,202.23,2024-04-07,No,Not Appealed,,Not Appealed
+CLM0000886,DEN0000082,CO-18,Duplicate claim or service,317.97,2024-04-21,No,Not Appealed,,Not Appealed
+CLM0000888,DEN0000083,CO-16,Missing or incomplete claim information,8266.50,2024-04-06,No,Not Appealed,,Not Appealed
+CLM0000895,DEN0000084,CO-197,Precertification or authorization absent,171.78,2024-04-07,No,Not Appealed,,Not Appealed
+CLM0000907,DEN0000085,CO-29,Timely filing limit expired,149.92,2024-03-14,No,Not Appealed,,Not Appealed
+CLM0000941,DEN0000086,CO-96,Non-covered charge,5549.21,2024-03-23,Yes,Approved,2024-04-13,Approved
+CLM0000960,DEN0000087,CO-50,Service not medically necessary,393.51,2024-04-27,No,Not Appealed,,Not Appealed
+CLM0000962,DEN0000088,CO-18,Duplicate claim or service,230.95,2024-03-22,No,Not Appealed,,Not Appealed
+CLM0000979,DEN0000089,CO-16,Missing or incomplete claim information,105.43,2024-04-11,No,Not Appealed,,Not Appealed
+CLM0001025,DEN0000090,CO-96,Non-covered charge,9320.85,2024-04-17,Yes,Denied,2024-06-10,Denied
+CLM0001040,DEN0000091,CO-16,Missing or incomplete claim information,549.32,2024-05-07,No,Not Appealed,,Not Appealed
+CLM0001042,DEN0000092,CO-16,Missing or incomplete claim information,307.82,2024-05-06,No,Not Appealed,,Not Appealed
+CLM0001043,DEN0000093,CO-50,Service not medically necessary,407.61,2024-04-14,No,Not Appealed,,Not Appealed
+CLM0001058,DEN0000094,CO-16,Missing or incomplete claim information,1691.82,2024-05-04,No,Not Appealed,,Not Appealed
+CLM0001069,DEN0000095,CO-29,Timely filing limit expired,202.08,2024-04-25,No,Not Appealed,,Not Appealed
+CLM0001070,DEN0000096,CO-96,Non-covered charge,490.70,2024-05-05,Yes,Denied,2024-05-26,Denied
+CLM0001076,DEN0000097,CO-96,Non-covered charge,164.81,2024-05-05,No,Not Appealed,,Not Appealed
+CLM0001077,DEN0000098,CO-50,Service not medically necessary,373.81,2024-04-17,Yes,Approved,2024-06-19,Approved
+CLM0001093,DEN0000099,CO-197,Precertification or authorization absent,137.51,2024-04-22,No,Not Appealed,,Not Appealed
+CLM0001097,DEN0000100,CO-197,Precertification or authorization absent,149.55,2024-04-11,No,Not Appealed,,Not Appealed
+CLM0001112,DEN0000101,CO-50,Service not medically necessary,424.74,2024-04-29,No,Not Appealed,,Not Appealed
+CLM0001128,DEN0000102,CO-18,Duplicate claim or service,144.40,2024-04-23,Yes,Approved,2024-06-15,Approved
+CLM0001133,DEN0000103,CO-50,Service not medically necessary,2124.92,2024-04-20,No,Not Appealed,,Not Appealed
+CLM0001139,DEN0000104,CO-18,Duplicate claim or service,594.25,2024-05-10,Yes,Approved,2024-06-13,Approved
+CLM0001148,DEN0000105,CO-197,Precertification or authorization absent,95.63,2024-05-06,Yes,Approved,2024-06-18,Approved
+CLM0001167,DEN0000106,CO-29,Timely filing limit expired,221.77,2024-04-30,No,Not Appealed,,Not Appealed
+CLM0001170,DEN0000107,CO-29,Timely filing limit expired,207.84,2024-04-08,No,Not Appealed,,Not Appealed
+CLM0001192,DEN0000108,CO-16,Missing or incomplete claim information,168.56,2024-05-13,Yes,Pending,,Pending
+CLM0001198,DEN0000109,CO-18,Duplicate claim or service,1854.20,2024-05-11,Yes,Approved,2024-07-17,Approved
+CLM0001217,DEN0000110,CO-96,Non-covered charge,189.74,2024-05-11,No,Not Appealed,,Not Appealed
+CLM0001219,DEN0000111,CO-197,Precertification or authorization absent,320.89,2024-05-17,Yes,Approved,2024-07-04,Approved
+CLM0001229,DEN0000112,CO-16,Missing or incomplete claim information,211.69,2024-05-12,No,Not Appealed,,Not Appealed
+CLM0001240,DEN0000113,CO-50,Service not medically necessary,370.13,2024-05-22,No,Not Appealed,,Not Appealed
+CLM0001254,DEN0000114,CO-16,Missing or incomplete claim information,150.69,2024-05-03,Yes,Approved,2024-06-15,Approved
+CLM0001256,DEN0000115,CO-29,Timely filing limit expired,1696.59,2024-05-04,No,Not Appealed,,Not Appealed
+CLM0001272,DEN0000116,CO-29,Timely filing limit expired,272.40,2024-05-30,No,Not Appealed,,Not Appealed
+CLM0001283,DEN0000117,CO-96,Non-covered charge,191.20,2024-04-14,Yes,Approved,2024-05-27,Approved
+CLM0001293,DEN0000118,CO-29,Timely filing limit expired,1505.38,2024-04-10,No,Not Appealed,,Not Appealed
+CLM0001307,DEN0000119,CO-50,Service not medically necessary,248.43,2024-05-05,Yes,Pending,,Pending
+CLM0001317,DEN0000120,CO-197,Precertification or authorization absent,332.90,2024-05-24,No,Not Appealed,,Not Appealed
+CLM0001322,DEN0000121,CO-16,Missing or incomplete claim information,167.07,2024-05-01,No,Not Appealed,,Not Appealed
+CLM0001342,DEN0000122,CO-18,Duplicate claim or service,178.62,2024-04-24,No,Not Appealed,,Not Appealed
+CLM0001347,DEN0000123,CO-18,Duplicate claim or service,194.74,2024-05-04,No,Not Appealed,,Not Appealed
+CLM0001348,DEN0000124,CO-96,Non-covered charge,249.76,2024-05-04,Yes,Denied,2024-05-23,Denied
+CLM0001363,DEN0000125,CO-197,Precertification or authorization absent,198.64,2024-04-11,No,Not Appealed,,Not Appealed
+CLM0001400,DEN0000126,CO-50,Service not medically necessary,147.74,2024-05-05,No,Not Appealed,,Not Appealed
+CLM0001406,DEN0000127,CO-96,Non-covered charge,303.90,2024-05-19,No,Not Appealed,,Not Appealed
+CLM0001416,DEN0000128,CO-50,Service not medically necessary,1502.69,2024-06-11,No,Not Appealed,,Not Appealed
+CLM0001424,DEN0000129,CO-16,Missing or incomplete claim information,385.07,2024-05-22,No,Not Appealed,,Not Appealed
+CLM0001429,DEN0000130,CO-29,Timely filing limit expired,187.58,2024-04-28,No,Not Appealed,,Not Appealed
+CLM0001446,DEN0000131,CO-29,Timely filing limit expired,1632.98,2024-05-09,Yes,Pending,,Pending
+CLM0001460,DEN0000132,CO-50,Service not medically necessary,356.61,2024-05-16,Yes,Denied,2024-05-31,Denied
+CLM0001467,DEN0000133,CO-50,Service not medically necessary,619.65,2024-06-08,No,Not Appealed,,Not Appealed
+CLM0001470,DEN0000134,CO-96,Non-covered charge,2248.43,2024-05-15,Yes,Approved,2024-07-23,Approved
+CLM0001485,DEN0000135,CO-50,Service not medically necessary,950.60,2024-06-09,No,Not Appealed,,Not Appealed
+CLM0001489,DEN0000136,CO-16,Missing or incomplete claim information,487.69,2024-05-17,No,Not Appealed,,Not Appealed
+CLM0001504,DEN0000137,CO-96,Non-covered charge,144.06,2024-04-25,No,Not Appealed,,Not Appealed
+CLM0001514,DEN0000138,CO-29,Timely filing limit expired,1308.63,2024-05-05,No,Not Appealed,,Not Appealed
+CLM0001520,DEN0000139,CO-50,Service not medically necessary,126.32,2024-05-21,No,Not Appealed,,Not Appealed
+CLM0001527,DEN0000140,CO-197,Precertification or authorization absent,1175.74,2024-05-14,No,Not Appealed,,Not Appealed
+CLM0001535,DEN0000141,CO-197,Precertification or authorization absent,231.71,2024-05-09,No,Not Appealed,,Not Appealed
+CLM0001550,DEN0000142,CO-16,Missing or incomplete claim information,208.34,2024-05-20,No,Not Appealed,,Not Appealed
+CLM0001581,DEN0000143,CO-197,Precertification or authorization absent,230.17,2024-06-23,Yes,Denied,2024-08-10,Denied
+CLM0001590,DEN0000144,CO-29,Timely filing limit expired,895.22,2024-05-06,Yes,Denied,2024-06-19,Denied
+CLM0001601,DEN0000145,CO-96,Non-covered charge,1595.17,2024-06-07,Yes,Denied,2024-06-29,Denied
+CLM0001626,DEN0000146,CO-16,Missing or incomplete claim information,356.99,2024-07-02,Yes,Pending,,Pending
+CLM0001639,DEN0000147,CO-29,Timely filing limit expired,262.83,2024-05-22,Yes,Pending,,Pending
+CLM0001647,DEN0000148,CO-50,Service not medically necessary,234.01,2024-05-08,Yes,Approved,2024-06-16,Approved
+CLM0001656,DEN0000149,CO-50,Service not medically necessary,2139.57,2024-05-17,No,Not Appealed,,Not Appealed
+CLM0001684,DEN0000150,CO-96,Non-covered charge,222.56,2024-05-11,No,Not Appealed,,Not Appealed
+CLM0001688,DEN0000151,CO-50,Service not medically necessary,379.12,2024-05-16,No,Not Appealed,,Not Appealed
+CLM0001693,DEN0000152,CO-16,Missing or incomplete claim information,185.70,2024-06-07,No,Not Appealed,,Not Appealed
+CLM0001707,DEN0000153,CO-29,Timely filing limit expired,383.36,2024-06-01,No,Not Appealed,,Not Appealed
+CLM0001711,DEN0000154,CO-18,Duplicate claim or service,8482.55,2024-06-18,No,Not Appealed,,Not Appealed
+CLM0001713,DEN0000155,CO-16,Missing or incomplete claim information,269.86,2024-06-20,No,Not Appealed,,Not Appealed
+CLM0001720,DEN0000156,CO-29,Timely filing limit expired,211.48,2024-07-06,Yes,Denied,2024-08-16,Denied
+CLM0001722,DEN0000157,CO-50,Service not medically necessary,160.43,2024-06-05,No,Not Appealed,,Not Appealed
+CLM0001731,DEN0000158,CO-50,Service not medically necessary,247.82,2024-06-05,Yes,Denied,2024-06-30,Denied
+CLM0001744,DEN0000159,CO-18,Duplicate claim or service,1492.80,2024-07-05,No,Not Appealed,,Not Appealed
+CLM0001758,DEN0000160,CO-29,Timely filing limit expired,381.66,2024-07-04,No,Not Appealed,,Not Appealed
+CLM0001774,DEN0000161,CO-16,Missing or incomplete claim information,449.29,2024-05-24,No,Not Appealed,,Not Appealed
+CLM0001781,DEN0000162,CO-197,Precertification or authorization absent,144.92,2024-06-14,Yes,Approved,2024-07-05,Approved
+CLM0001793,DEN0000163,CO-50,Service not medically necessary,220.30,2024-06-23,No,Not Appealed,,Not Appealed
+CLM0001801,DEN0000164,CO-18,Duplicate claim or service,144.41,2024-05-30,Yes,Approved,2024-08-13,Approved
+CLM0001809,DEN0000165,CO-16,Missing or incomplete claim information,139.10,2024-05-14,No,Not Appealed,,Not Appealed
+CLM0001812,DEN0000166,CO-16,Missing or incomplete claim information,118.54,2024-06-18,No,Not Appealed,,Not Appealed
+CLM0001813,DEN0000167,CO-18,Duplicate claim or service,541.52,2024-06-24,No,Not Appealed,,Not Appealed
+CLM0001825,DEN0000168,CO-50,Service not medically necessary,6388.72,2024-06-24,Yes,Approved,2024-08-03,Approved
+CLM0001831,DEN0000169,CO-29,Timely filing limit expired,198.01,2024-06-06,No,Not Appealed,,Not Appealed
+CLM0001839,DEN0000170,CO-50,Service not medically necessary,1474.86,2024-05-17,Yes,Denied,2024-07-25,Denied
+CLM0001841,DEN0000171,CO-18,Duplicate claim or service,369.83,2024-07-02,Yes,Approved,2024-08-24,Approved
+CLM0001846,DEN0000172,CO-96,Non-covered charge,323.62,2024-05-29,No,Not Appealed,,Not Appealed
+CLM0001848,DEN0000173,CO-50,Service not medically necessary,127.81,2024-06-08,No,Not Appealed,,Not Appealed
+CLM0001854,DEN0000174,CO-18,Duplicate claim or service,348.99,2024-05-27,No,Not Appealed,,Not Appealed
+CLM0001865,DEN0000175,CO-29,Timely filing limit expired,333.29,2024-06-23,Yes,Approved,2024-08-25,Approved
+CLM0001867,DEN0000176,CO-16,Missing or incomplete claim information,272.37,2024-06-15,Yes,Pending,,Pending
+CLM0001892,DEN0000177,CO-50,Service not medically necessary,455.44,2024-06-05,No,Not Appealed,,Not Appealed
+CLM0001900,DEN0000178,CO-50,Service not medically necessary,477.95,2024-06-07,Yes,Approved,2024-07-27,Approved
+CLM0001932,DEN0000179,CO-29,Timely filing limit expired,236.00,2024-06-01,No,Not Appealed,,Not Appealed
+CLM0001953,DEN0000180,CO-96,Non-covered charge,149.74,2024-06-15,No,Not Appealed,,Not Appealed
+CLM0001958,DEN0000181,CO-197,Precertification or authorization absent,218.34,2024-07-18,No,Not Appealed,,Not Appealed
+CLM0001978,DEN0000182,CO-96,Non-covered charge,272.68,2024-06-17,No,Not Appealed,,Not Appealed
+CLM0002001,DEN0000183,CO-29,Timely filing limit expired,271.11,2024-06-27,No,Not Appealed,,Not Appealed
+CLM0002019,DEN0000184,CO-96,Non-covered charge,419.18,2024-07-15,No,Not Appealed,,Not Appealed
+CLM0002025,DEN0000185,CO-16,Missing or incomplete claim information,261.22,2024-07-18,Yes,Approved,2024-08-28,Approved
+CLM0002044,DEN0000186,CO-16,Missing or incomplete claim information,380.70,2024-06-17,No,Not Appealed,,Not Appealed
+CLM0002047,DEN0000187,CO-197,Precertification or authorization absent,1616.46,2024-06-25,No,Not Appealed,,Not Appealed
+CLM0002049,DEN0000188,CO-16,Missing or incomplete claim information,1447.84,2024-06-05,No,Not Appealed,,Not Appealed
+CLM0002051,DEN0000189,CO-96,Non-covered charge,192.96,2024-07-25,Yes,Denied,2024-10-05,Denied
+CLM0002060,DEN0000190,CO-50,Service not medically necessary,349.59,2024-05-28,Yes,Pending,,Pending
+CLM0002064,DEN0000191,CO-16,Missing or incomplete claim information,220.92,2024-07-03,No,Not Appealed,,Not Appealed
+CLM0002073,DEN0000192,CO-29,Timely filing limit expired,963.86,2024-06-04,Yes,Approved,2024-08-18,Approved
+CLM0002090,DEN0000193,CO-197,Precertification or authorization absent,10451.75,2024-07-03,Yes,Denied,2024-09-01,Denied
+CLM0002091,DEN0000194,CO-16,Missing or incomplete claim information,124.85,2024-06-09,No,Not Appealed,,Not Appealed
+CLM0002093,DEN0000195,CO-197,Precertification or authorization absent,281.24,2024-06-02,Yes,Denied,2024-08-11,Denied
+CLM0002103,DEN0000196,CO-29,Timely filing limit expired,12984.78,2024-06-16,Yes,Denied,2024-07-03,Denied
+CLM0002135,DEN0000197,CO-16,Missing or incomplete claim information,152.86,2024-06-25,No,Not Appealed,,Not Appealed
+CLM0002140,DEN0000198,CO-50,Service not medically necessary,186.09,2024-07-04,No,Not Appealed,,Not Appealed
+CLM0002155,DEN0000199,CO-197,Precertification or authorization absent,297.92,2024-06-19,No,Not Appealed,,Not Appealed
+CLM0002162,DEN0000200,CO-197,Precertification or authorization absent,338.73,2024-07-17,No,Not Appealed,,Not Appealed
+CLM0002179,DEN0000201,CO-96,Non-covered charge,101.05,2024-07-25,Yes,Denied,2024-09-11,Denied
+CLM0002180,DEN0000202,CO-50,Service not medically necessary,393.26,2024-07-24,Yes,Denied,2024-10-09,Denied
+CLM0002187,DEN0000203,CO-50,Service not medically necessary,1358.74,2024-07-03,Yes,Denied,2024-08-17,Denied
+CLM0002204,DEN0000204,CO-50,Service not medically necessary,312.83,2024-07-14,Yes,Denied,2024-09-07,Denied
+CLM0002211,DEN0000205,CO-197,Precertification or authorization absent,471.20,2024-07-11,No,Not Appealed,,Not Appealed
+CLM0002220,DEN0000206,CO-18,Duplicate claim or service,198.93,2024-06-17,Yes,Denied,2024-07-04,Denied
+CLM0002256,DEN0000207,CO-18,Duplicate claim or service,204.28,2024-06-27,Yes,Denied,2024-08-24,Denied
+CLM0002258,DEN0000208,CO-29,Timely filing limit expired,273.75,2024-07-17,No,Not Appealed,,Not Appealed
+CLM0002272,DEN0000209,CO-96,Non-covered charge,1543.59,2024-06-21,No,Not Appealed,,Not Appealed
+CLM0002276,DEN0000210,CO-197,Precertification or authorization absent,1262.29,2024-06-06,No,Not Appealed,,Not Appealed
+CLM0002282,DEN0000211,CO-50,Service not medically necessary,167.90,2024-06-30,No,Not Appealed,,Not Appealed
+CLM0002286,DEN0000212,CO-18,Duplicate claim or service,173.25,2024-07-19,No,Not Appealed,,Not Appealed
+CLM0002287,DEN0000213,CO-197,Precertification or authorization absent,156.83,2024-07-18,No,Not Appealed,,Not Appealed
+CLM0002317,DEN0000214,CO-16,Missing or incomplete claim information,631.58,2024-07-19,No,Not Appealed,,Not Appealed
+CLM0002349,DEN0000215,CO-197,Precertification or authorization absent,379.91,2024-06-30,No,Not Appealed,,Not Appealed
+CLM0002350,DEN0000216,CO-197,Precertification or authorization absent,1571.82,2024-06-29,Yes,Approved,2024-08-18,Approved
+CLM0002375,DEN0000217,CO-197,Precertification or authorization absent,251.25,2024-06-29,Yes,Pending,,Pending
+CLM0002378,DEN0000218,CO-16,Missing or incomplete claim information,186.60,2024-07-22,No,Not Appealed,,Not Appealed
+CLM0002397,DEN0000219,CO-96,Non-covered charge,667.42,2024-07-16,Yes,Approved,2024-09-07,Approved
+CLM0002398,DEN0000220,CO-16,Missing or incomplete claim information,1756.47,2024-06-23,No,Not Appealed,,Not Appealed
+CLM0002423,DEN0000221,CO-50,Service not medically necessary,433.35,2024-07-04,No,Not Appealed,,Not Appealed
+CLM0002430,DEN0000222,CO-50,Service not medically necessary,297.13,2024-07-23,No,Not Appealed,,Not Appealed
+CLM0002440,DEN0000223,CO-29,Timely filing limit expired,347.75,2024-06-21,No,Not Appealed,,Not Appealed
+CLM0002449,DEN0000224,CO-50,Service not medically necessary,225.96,2024-07-18,No,Not Appealed,,Not Appealed
+CLM0002457,DEN0000225,CO-16,Missing or incomplete claim information,333.71,2024-06-29,No,Not Appealed,,Not Appealed
+CLM0002472,DEN0000226,CO-96,Non-covered charge,216.88,2024-08-03,No,Not Appealed,,Not Appealed
+CLM0002478,DEN0000227,CO-16,Missing or incomplete claim information,1213.58,2024-07-17,No,Not Appealed,,Not Appealed
+CLM0002479,DEN0000228,CO-197,Precertification or authorization absent,291.46,2024-07-23,No,Not Appealed,,Not Appealed
+CLM0002492,DEN0000229,CO-50,Service not medically necessary,143.19,2024-07-17,Yes,Approved,2024-09-23,Approved
+CLM0002495,DEN0000230,CO-18,Duplicate claim or service,706.62,2024-07-08,No,Not Appealed,,Not Appealed
+CLM0002500,DEN0000231,CO-16,Missing or incomplete claim information,778.26,2024-07-05,No,Not Appealed,,Not Appealed
+CLM0002510,DEN0000232,CO-29,Timely filing limit expired,540.51,2024-07-26,No,Not Appealed,,Not Appealed
+CLM0002523,DEN0000233,CO-50,Service not medically necessary,240.29,2024-08-13,No,Not Appealed,,Not Appealed
+CLM0002532,DEN0000234,CO-96,Non-covered charge,297.48,2024-08-18,No,Not Appealed,,Not Appealed
+CLM0002546,DEN0000235,CO-96,Non-covered charge,674.77,2024-07-27,No,Not Appealed,,Not Appealed
+CLM0002547,DEN0000236,CO-96,Non-covered charge,250.55,2024-06-26,No,Not Appealed,,Not Appealed
+CLM0002552,DEN0000237,CO-96,Non-covered charge,132.37,2024-07-12,No,Not Appealed,,Not Appealed
+CLM0002572,DEN0000238,CO-16,Missing or incomplete claim information,142.87,2024-07-22,Yes,Denied,2024-10-01,Denied
+CLM0002575,DEN0000239,CO-29,Timely filing limit expired,145.90,2024-07-24,No,Not Appealed,,Not Appealed
+CLM0002578,DEN0000240,CO-29,Timely filing limit expired,1855.53,2024-07-19,Yes,Denied,2024-08-15,Denied
+CLM0002611,DEN0000241,CO-18,Duplicate claim or service,1777.54,2024-07-26,No,Not Appealed,,Not Appealed
+CLM0002612,DEN0000242,CO-50,Service not medically necessary,158.60,2024-07-30,Yes,Approved,2024-10-07,Approved
+CLM0002613,DEN0000243,CO-16,Missing or incomplete claim information,201.24,2024-08-08,No,Not Appealed,,Not Appealed
+CLM0002643,DEN0000244,CO-96,Non-covered charge,290.33,2024-07-29,No,Not Appealed,,Not Appealed
+CLM0002648,DEN0000245,CO-16,Missing or incomplete claim information,179.83,2024-08-09,No,Not Appealed,,Not Appealed
+CLM0002655,DEN0000246,CO-29,Timely filing limit expired,130.30,2024-08-24,No,Not Appealed,,Not Appealed
+CLM0002662,DEN0000247,CO-18,Duplicate claim or service,1421.39,2024-08-14,No,Not Appealed,,Not Appealed
+CLM0002673,DEN0000248,CO-18,Duplicate claim or service,157.63,2024-07-31,Yes,Approved,2024-09-18,Approved
+CLM0002677,DEN0000249,CO-96,Non-covered charge,324.57,2024-07-22,No,Not Appealed,,Not Appealed
+CLM0002682,DEN0000250,CO-16,Missing or incomplete claim information,627.80,2024-08-07,No,Not Appealed,,Not Appealed
+CLM0002686,DEN0000251,CO-96,Non-covered charge,1054.27,2024-07-18,No,Not Appealed,,Not Appealed
+CLM0002692,DEN0000252,CO-16,Missing or incomplete claim information,170.40,2024-08-17,No,Not Appealed,,Not Appealed
+CLM0002694,DEN0000253,CO-197,Precertification or authorization absent,251.09,2024-08-22,Yes,Pending,,Pending
+CLM0002706,DEN0000254,CO-18,Duplicate claim or service,360.66,2024-07-14,Yes,Approved,2024-09-24,Approved
+CLM0002724,DEN0000255,CO-16,Missing or incomplete claim information,203.99,2024-08-19,No,Not Appealed,,Not Appealed
+CLM0002737,DEN0000256,CO-197,Precertification or authorization absent,674.46,2024-08-22,No,Not Appealed,,Not Appealed
+CLM0002742,DEN0000257,CO-96,Non-covered charge,212.48,2024-07-29,No,Not Appealed,,Not Appealed
+CLM0002743,DEN0000258,CO-96,Non-covered charge,156.59,2024-09-06,No,Not Appealed,,Not Appealed
+CLM0002745,DEN0000259,CO-96,Non-covered charge,242.88,2024-07-20,Yes,Approved,2024-08-23,Approved
+CLM0002755,DEN0000260,CO-96,Non-covered charge,121.31,2024-08-15,No,Not Appealed,,Not Appealed
+CLM0002756,DEN0000261,CO-16,Missing or incomplete claim information,213.09,2024-08-16,No,Not Appealed,,Not Appealed
+CLM0002769,DEN0000262,CO-18,Duplicate claim or service,452.10,2024-07-11,No,Not Appealed,,Not Appealed
+CLM0002800,DEN0000263,CO-50,Service not medically necessary,1601.21,2024-08-06,No,Not Appealed,,Not Appealed
+CLM0002805,DEN0000264,CO-96,Non-covered charge,262.99,2024-08-20,No,Not Appealed,,Not Appealed
+CLM0002807,DEN0000265,CO-50,Service not medically necessary,201.81,2024-08-09,Yes,Denied,2024-10-23,Denied
+CLM0002815,DEN0000266,CO-16,Missing or incomplete claim information,220.17,2024-08-28,No,Not Appealed,,Not Appealed
+CLM0002834,DEN0000267,CO-96,Non-covered charge,297.60,2024-08-23,No,Not Appealed,,Not Appealed
+CLM0002837,DEN0000268,CO-29,Timely filing limit expired,1169.93,2024-08-08,No,Not Appealed,,Not Appealed
+CLM0002841,DEN0000269,CO-16,Missing or incomplete claim information,191.48,2024-08-24,No,Not Appealed,,Not Appealed
+CLM0002843,DEN0000270,CO-18,Duplicate claim or service,2825.88,2024-08-24,No,Not Appealed,,Not Appealed
+CLM0002861,DEN0000271,CO-197,Precertification or authorization absent,153.20,2024-09-09,No,Not Appealed,,Not Appealed
+CLM0002889,DEN0000272,CO-96,Non-covered charge,181.84,2024-08-08,Yes,Approved,2024-09-06,Approved
+CLM0002896,DEN0000273,CO-197,Precertification or authorization absent,1456.09,2024-08-03,No,Not Appealed,,Not Appealed
+CLM0002903,DEN0000274,CO-16,Missing or incomplete claim information,212.41,2024-08-15,Yes,Denied,2024-10-13,Denied
+CLM0002904,DEN0000275,CO-50,Service not medically necessary,386.32,2024-08-07,No,Not Appealed,,Not Appealed
+CLM0002934,DEN0000276,CO-18,Duplicate claim or service,183.70,2024-08-27,Yes,Pending,,Pending
+CLM0002938,DEN0000277,CO-29,Timely filing limit expired,1658.33,2024-08-12,No,Not Appealed,,Not Appealed
+CLM0002950,DEN0000278,CO-16,Missing or incomplete claim information,7688.10,2024-08-14,Yes,Pending,,Pending
+CLM0002958,DEN0000279,CO-29,Timely filing limit expired,247.03,2024-08-06,Yes,Approved,2024-09-22,Approved
+CLM0002961,DEN0000280,CO-18,Duplicate claim or service,343.92,2024-09-15,No,Not Appealed,,Not Appealed
+CLM0002971,DEN0000281,CO-197,Precertification or authorization absent,350.51,2024-09-20,No,Not Appealed,,Not Appealed
+CLM0002979,DEN0000282,CO-197,Precertification or authorization absent,130.72,2024-08-25,Yes,Denied,2024-09-09,Denied
+CLM0002984,DEN0000283,CO-16,Missing or incomplete claim information,380.03,2024-08-09,No,Not Appealed,,Not Appealed
+CLM0003029,DEN0000284,CO-18,Duplicate claim or service,284.34,2024-09-04,No,Not Appealed,,Not Appealed
+CLM0003031,DEN0000285,CO-29,Timely filing limit expired,330.20,2024-09-22,No,Not Appealed,,Not Appealed
+CLM0003038,DEN0000286,CO-29,Timely filing limit expired,1258.37,2024-08-13,No,Not Appealed,,Not Appealed
+CLM0003044,DEN0000287,CO-29,Timely filing limit expired,212.88,2024-08-03,No,Not Appealed,,Not Appealed
+CLM0003049,DEN0000288,CO-197,Precertification or authorization absent,810.96,2024-08-21,No,Not Appealed,,Not Appealed
+CLM0003067,DEN0000289,CO-18,Duplicate claim or service,184.25,2024-09-05,No,Not Appealed,,Not Appealed
+CLM0003072,DEN0000290,CO-197,Precertification or authorization absent,171.16,2024-09-30,Yes,Denied,2024-11-11,Denied
+CLM0003076,DEN0000291,CO-29,Timely filing limit expired,205.22,2024-08-15,No,Not Appealed,,Not Appealed
+CLM0003078,DEN0000292,CO-50,Service not medically necessary,161.36,2024-08-03,No,Not Appealed,,Not Appealed
+CLM0003114,DEN0000293,CO-50,Service not medically necessary,221.34,2024-09-06,No,Not Appealed,,Not Appealed
+CLM0003118,DEN0000294,CO-29,Timely filing limit expired,180.50,2024-08-20,No,Not Appealed,,Not Appealed
+CLM0003122,DEN0000295,CO-96,Non-covered charge,309.83,2024-09-12,No,Not Appealed,,Not Appealed
+CLM0003125,DEN0000296,CO-18,Duplicate claim or service,300.15,2024-08-17,No,Not Appealed,,Not Appealed
+CLM0003131,DEN0000297,CO-96,Non-covered charge,331.67,2024-08-08,No,Not Appealed,,Not Appealed
+CLM0003167,DEN0000298,CO-29,Timely filing limit expired,2883.77,2024-08-31,No,Not Appealed,,Not Appealed
+CLM0003168,DEN0000299,CO-50,Service not medically necessary,157.01,2024-08-27,No,Not Appealed,,Not Appealed
+CLM0003171,DEN0000300,CO-18,Duplicate claim or service,262.32,2024-08-05,No,Not Appealed,,Not Appealed
+CLM0003187,DEN0000301,CO-50,Service not medically necessary,590.93,2024-09-26,Yes,Denied,2024-10-30,Denied
+CLM0003196,DEN0000302,CO-96,Non-covered charge,180.29,2024-09-16,Yes,Denied,2024-11-14,Denied
+CLM0003201,DEN0000303,CO-16,Missing or incomplete claim information,381.08,2024-08-28,Yes,Denied,2024-09-18,Denied
+CLM0003205,DEN0000304,CO-18,Duplicate claim or service,408.59,2024-09-26,No,Not Appealed,,Not Appealed
+CLM0003239,DEN0000305,CO-29,Timely filing limit expired,515.16,2024-10-03,No,Not Appealed,,Not Appealed
+CLM0003241,DEN0000306,CO-16,Missing or incomplete claim information,159.29,2024-08-19,No,Not Appealed,,Not Appealed
+CLM0003255,DEN0000307,CO-16,Missing or incomplete claim information,142.80,2024-08-31,Yes,Approved,2024-10-01,Approved
+CLM0003257,DEN0000308,CO-29,Timely filing limit expired,350.11,2024-08-11,No,Not Appealed,,Not Appealed
+CLM0003259,DEN0000309,CO-18,Duplicate claim or service,222.68,2024-09-26,No,Not Appealed,,Not Appealed
+CLM0003271,DEN0000310,CO-50,Service not medically necessary,2165.67,2024-09-21,No,Not Appealed,,Not Appealed
+CLM0003275,DEN0000311,CO-197,Precertification or authorization absent,291.25,2024-09-18,No,Not Appealed,,Not Appealed
+CLM0003276,DEN0000312,CO-96,Non-covered charge,192.96,2024-10-02,Yes,Pending,,Pending
+CLM0003293,DEN0000313,CO-96,Non-covered charge,226.81,2024-09-21,No,Not Appealed,,Not Appealed
+CLM0003301,DEN0000314,CO-197,Precertification or authorization absent,262.23,2024-09-08,No,Not Appealed,,Not Appealed
+CLM0003324,DEN0000315,CO-16,Missing or incomplete claim information,401.78,2024-08-31,No,Not Appealed,,Not Appealed
+CLM0003349,DEN0000316,CO-96,Non-covered charge,1117.99,2024-09-15,No,Not Appealed,,Not Appealed
+CLM0003366,DEN0000317,CO-96,Non-covered charge,304.79,2024-10-08,No,Not Appealed,,Not Appealed
+CLM0003376,DEN0000318,CO-197,Precertification or authorization absent,208.99,2024-09-20,No,Not Appealed,,Not Appealed
+CLM0003387,DEN0000319,CO-29,Timely filing limit expired,2146.84,2024-09-16,Yes,Approved,2024-11-28,Approved
+CLM0003395,DEN0000320,CO-18,Duplicate claim or service,154.16,2024-09-07,No,Not Appealed,,Not Appealed
+CLM0003396,DEN0000321,CO-50,Service not medically necessary,181.00,2024-08-26,No,Not Appealed,,Not Appealed
+CLM0003409,DEN0000322,CO-50,Service not medically necessary,259.27,2024-09-02,No,Not Appealed,,Not Appealed
+CLM0003420,DEN0000323,CO-29,Timely filing limit expired,359.57,2024-10-03,Yes,Pending,,Pending
+CLM0003424,DEN0000324,CO-197,Precertification or authorization absent,138.62,2024-09-27,No,Not Appealed,,Not Appealed
+CLM0003426,DEN0000325,CO-96,Non-covered charge,115.64,2024-09-03,No,Not Appealed,,Not Appealed
+CLM0003427,DEN0000326,CO-18,Duplicate claim or service,368.23,2024-09-23,No,Not Appealed,,Not Appealed
+CLM0003437,DEN0000327,CO-197,Precertification or authorization absent,153.40,2024-09-22,Yes,Denied,2024-10-19,Denied
+CLM0003441,DEN0000328,CO-50,Service not medically necessary,1839.33,2024-10-10,Yes,Denied,2024-11-15,Denied
+CLM0003472,DEN0000329,CO-16,Missing or incomplete claim information,1421.96,2024-10-02,No,Not Appealed,,Not Appealed
+CLM0003482,DEN0000330,CO-29,Timely filing limit expired,344.53,2024-10-06,No,Not Appealed,,Not Appealed
+CLM0003487,DEN0000331,CO-197,Precertification or authorization absent,254.44,2024-09-21,Yes,Pending,,Pending
+CLM0003489,DEN0000332,CO-18,Duplicate claim or service,154.59,2024-10-05,No,Not Appealed,,Not Appealed
+CLM0003537,DEN0000333,CO-29,Timely filing limit expired,260.94,2024-10-17,Yes,Denied,2024-11-19,Denied
+CLM0003545,DEN0000334,CO-197,Precertification or authorization absent,379.59,2024-09-18,No,Not Appealed,,Not Appealed
+CLM0003553,DEN0000335,CO-16,Missing or incomplete claim information,2519.12,2024-08-25,No,Not Appealed,,Not Appealed
+CLM0003576,DEN0000336,CO-197,Precertification or authorization absent,721.68,2024-08-27,No,Not Appealed,,Not Appealed
+CLM0003579,DEN0000337,CO-96,Non-covered charge,143.24,2024-10-13,No,Not Appealed,,Not Appealed
+CLM0003584,DEN0000338,CO-197,Precertification or authorization absent,347.40,2024-09-06,No,Not Appealed,,Not Appealed
+CLM0003610,DEN0000339,CO-16,Missing or incomplete claim information,1023.48,2024-09-14,Yes,Denied,2024-11-06,Denied
+CLM0003621,DEN0000340,CO-197,Precertification or authorization absent,124.43,2024-09-22,Yes,Denied,2024-12-01,Denied
+CLM0003627,DEN0000341,CO-96,Non-covered charge,222.31,2024-10-18,No,Not Appealed,,Not Appealed
+CLM0003637,DEN0000342,CO-18,Duplicate claim or service,350.19,2024-10-01,Yes,Pending,,Pending
+CLM0003668,DEN0000343,CO-50,Service not medically necessary,11814.93,2024-09-26,Yes,Pending,,Pending
+CLM0003679,DEN0000344,CO-16,Missing or incomplete claim information,1535.41,2024-10-13,No,Not Appealed,,Not Appealed
+CLM0003682,DEN0000345,CO-50,Service not medically necessary,1662.80,2024-10-04,No,Not Appealed,,Not Appealed
+CLM0003683,DEN0000346,CO-18,Duplicate claim or service,1800.53,2024-10-16,No,Not Appealed,,Not Appealed
+CLM0003706,DEN0000347,CO-96,Non-covered charge,929.96,2024-09-13,No,Not Appealed,,Not Appealed
+CLM0003719,DEN0000348,CO-29,Timely filing limit expired,170.93,2024-10-13,No,Not Appealed,,Not Appealed
+CLM0003722,DEN0000349,CO-18,Duplicate claim or service,216.98,2024-10-19,No,Not Appealed,,Not Appealed
+CLM0003725,DEN0000350,CO-16,Missing or incomplete claim information,231.57,2024-10-11,No,Not Appealed,,Not Appealed
+CLM0003764,DEN0000351,CO-29,Timely filing limit expired,183.67,2024-09-07,No,Not Appealed,,Not Appealed
+CLM0003765,DEN0000352,CO-197,Precertification or authorization absent,371.99,2024-11-10,No,Not Appealed,,Not Appealed
+CLM0003784,DEN0000353,CO-16,Missing or incomplete claim information,202.97,2024-10-25,No,Not Appealed,,Not Appealed
+CLM0003787,DEN0000354,CO-16,Missing or incomplete claim information,114.23,2024-11-01,Yes,Pending,,Pending
+CLM0003798,DEN0000355,CO-29,Timely filing limit expired,157.55,2024-10-10,No,Not Appealed,,Not Appealed
+CLM0003804,DEN0000356,CO-29,Timely filing limit expired,9807.03,2024-10-11,No,Not Appealed,,Not Appealed
+CLM0003843,DEN0000357,CO-96,Non-covered charge,175.69,2024-11-06,Yes,Approved,2024-12-17,Approved
+CLM0003854,DEN0000358,CO-18,Duplicate claim or service,258.38,2024-10-14,Yes,Denied,2024-12-08,Denied
+CLM0003872,DEN0000359,CO-29,Timely filing limit expired,948.56,2024-09-27,Yes,Approved,2024-11-04,Approved
+CLM0003887,DEN0000360,CO-29,Timely filing limit expired,215.19,2024-11-13,No,Not Appealed,,Not Appealed
+CLM0003894,DEN0000361,CO-16,Missing or incomplete claim information,222.50,2024-10-11,No,Not Appealed,,Not Appealed
+CLM0003942,DEN0000362,CO-50,Service not medically necessary,8941.48,2024-10-22,Yes,Approved,2024-11-21,Approved
+CLM0003946,DEN0000363,CO-197,Precertification or authorization absent,136.69,2024-10-09,Yes,Approved,2024-12-19,Approved
+CLM0003948,DEN0000364,CO-16,Missing or incomplete claim information,206.33,2024-10-14,No,Not Appealed,,Not Appealed
+CLM0003956,DEN0000365,CO-197,Precertification or authorization absent,180.18,2024-10-06,No,Not Appealed,,Not Appealed
+CLM0003962,DEN0000366,CO-18,Duplicate claim or service,329.41,2024-11-11,No,Not Appealed,,Not Appealed
+CLM0003969,DEN0000367,CO-197,Precertification or authorization absent,93.59,2024-09-23,No,Not Appealed,,Not Appealed
+CLM0003989,DEN0000368,CO-50,Service not medically necessary,433.45,2024-10-16,No,Not Appealed,,Not Appealed
+CLM0003991,DEN0000369,CO-197,Precertification or authorization absent,1807.98,2024-10-02,Yes,Denied,2024-11-29,Denied
+CLM0004015,DEN0000370,CO-96,Non-covered charge,214.71,2024-10-22,Yes,Pending,,Pending
+CLM0004022,DEN0000371,CO-197,Precertification or authorization absent,152.77,2024-10-11,Yes,Approved,2024-12-21,Approved
+CLM0004023,DEN0000372,CO-18,Duplicate claim or service,1406.72,2024-10-01,Yes,Denied,2024-11-24,Denied
+CLM0004025,DEN0000373,CO-18,Duplicate claim or service,188.38,2024-09-21,No,Not Appealed,,Not Appealed
+CLM0004037,DEN0000374,CO-197,Precertification or authorization absent,374.53,2024-10-22,Yes,Approved,2025-01-05,Approved
+CLM0004044,DEN0000375,CO-16,Missing or incomplete claim information,1626.13,2024-11-10,No,Not Appealed,,Not Appealed
+CLM0004054,DEN0000376,CO-197,Precertification or authorization absent,196.37,2024-10-10,No,Not Appealed,,Not Appealed
+CLM0004055,DEN0000377,CO-197,Precertification or authorization absent,142.88,2024-10-16,No,Not Appealed,,Not Appealed
+CLM0004087,DEN0000378,CO-29,Timely filing limit expired,160.00,2024-10-11,No,Not Appealed,,Not Appealed
+CLM0004121,DEN0000379,CO-18,Duplicate claim or service,263.50,2024-11-16,Yes,Approved,2024-12-03,Approved
+CLM0004125,DEN0000380,CO-50,Service not medically necessary,622.75,2024-10-06,No,Not Appealed,,Not Appealed
+CLM0004139,DEN0000381,CO-16,Missing or incomplete claim information,967.42,2024-11-29,Yes,Denied,2025-01-05,Denied
+CLM0004145,DEN0000382,CO-16,Missing or incomplete claim information,1479.96,2024-11-16,Yes,Pending,,Pending
+CLM0004148,DEN0000383,CO-18,Duplicate claim or service,360.64,2024-12-02,Yes,Denied,2025-01-16,Denied
+CLM0004157,DEN0000384,CO-18,Duplicate claim or service,206.12,2024-10-28,No,Not Appealed,,Not Appealed
+CLM0004164,DEN0000385,CO-16,Missing or incomplete claim information,344.05,2024-10-14,No,Not Appealed,,Not Appealed
+CLM0004171,DEN0000386,CO-18,Duplicate claim or service,440.84,2024-10-14,No,Not Appealed,,Not Appealed
+CLM0004190,DEN0000387,CO-50,Service not medically necessary,978.01,2024-11-12,No,Not Appealed,,Not Appealed
+CLM0004205,DEN0000388,CO-96,Non-covered charge,1523.60,2024-11-06,No,Not Appealed,,Not Appealed
+CLM0004212,DEN0000389,CO-50,Service not medically necessary,348.88,2024-10-09,Yes,Denied,2024-11-04,Denied
+CLM0004222,DEN0000390,CO-29,Timely filing limit expired,1571.65,2024-11-11,No,Not Appealed,,Not Appealed
+CLM0004223,DEN0000391,CO-197,Precertification or authorization absent,1575.24,2024-11-22,Yes,Denied,2025-01-31,Denied
+CLM0004243,DEN0000392,CO-29,Timely filing limit expired,571.24,2024-12-01,Yes,Approved,2025-01-15,Approved
+CLM0004274,DEN0000393,CO-18,Duplicate claim or service,246.30,2024-10-22,No,Not Appealed,,Not Appealed
+CLM0004329,DEN0000394,CO-96,Non-covered charge,498.82,2024-11-15,Yes,Pending,,Pending
+CLM0004333,DEN0000395,CO-29,Timely filing limit expired,180.84,2024-11-07,No,Not Appealed,,Not Appealed
+CLM0004337,DEN0000396,CO-50,Service not medically necessary,260.91,2024-11-14,No,Not Appealed,,Not Appealed
+CLM0004344,DEN0000397,CO-18,Duplicate claim or service,444.96,2024-11-29,No,Not Appealed,,Not Appealed
+CLM0004348,DEN0000398,CO-96,Non-covered charge,460.34,2024-12-04,No,Not Appealed,,Not Appealed
+CLM0004352,DEN0000399,CO-16,Missing or incomplete claim information,178.97,2024-11-19,No,Not Appealed,,Not Appealed
+CLM0004360,DEN0000400,CO-29,Timely filing limit expired,180.02,2024-12-10,No,Not Appealed,,Not Appealed
+CLM0004375,DEN0000401,CO-29,Timely filing limit expired,1223.69,2024-11-19,No,Not Appealed,,Not Appealed
+CLM0004398,DEN0000402,CO-96,Non-covered charge,438.20,2024-11-05,No,Not Appealed,,Not Appealed
+CLM0004410,DEN0000403,CO-29,Timely filing limit expired,404.71,2024-11-12,No,Not Appealed,,Not Appealed
+CLM0004424,DEN0000404,CO-16,Missing or incomplete claim information,331.73,2024-11-14,Yes,Pending,,Pending
+CLM0004438,DEN0000405,CO-96,Non-covered charge,91.80,2024-11-04,No,Not Appealed,,Not Appealed
+CLM0004459,DEN0000406,CO-96,Non-covered charge,200.39,2024-11-07,No,Not Appealed,,Not Appealed
+CLM0004471,DEN0000407,CO-96,Non-covered charge,1496.95,2024-11-19,No,Not Appealed,,Not Appealed
+CLM0004479,DEN0000408,CO-50,Service not medically necessary,365.66,2024-12-23,No,Not Appealed,,Not Appealed
+CLM0004494,DEN0000409,CO-29,Timely filing limit expired,1534.50,2024-11-28,No,Not Appealed,,Not Appealed
+CLM0004500,DEN0000410,CO-197,Precertification or authorization absent,171.89,2024-12-15,Yes,Denied,2025-01-12,Denied
+CLM0004505,DEN0000411,CO-18,Duplicate claim or service,301.85,2025-01-01,No,Not Appealed,,Not Appealed
+CLM0004558,DEN0000412,CO-197,Precertification or authorization absent,201.66,2024-11-08,No,Not Appealed,,Not Appealed
+CLM0004580,DEN0000413,CO-16,Missing or incomplete claim information,5139.41,2024-11-17,No,Not Appealed,,Not Appealed
+CLM0004602,DEN0000414,CO-96,Non-covered charge,518.91,2024-12-02,Yes,Approved,2025-01-17,Approved
+CLM0004606,DEN0000415,CO-16,Missing or incomplete claim information,201.45,2024-12-02,Yes,Pending,,Pending
+CLM0004610,DEN0000416,CO-18,Duplicate claim or service,223.90,2025-01-03,No,Not Appealed,,Not Appealed
+CLM0004626,DEN0000417,CO-18,Duplicate claim or service,206.19,2024-11-17,No,Not Appealed,,Not Appealed
+CLM0004633,DEN0000418,CO-197,Precertification or authorization absent,250.91,2024-11-08,No,Not Appealed,,Not Appealed
+CLM0004678,DEN0000419,CO-16,Missing or incomplete claim information,224.95,2024-11-08,No,Not Appealed,,Not Appealed
+CLM0004689,DEN0000420,CO-29,Timely filing limit expired,330.36,2024-11-18,Yes,Approved,2024-12-26,Approved
+CLM0004701,DEN0000421,CO-197,Precertification or authorization absent,199.68,2024-12-21,No,Not Appealed,,Not Appealed
+CLM0004703,DEN0000422,CO-50,Service not medically necessary,152.72,2024-12-11,Yes,Denied,2025-01-13,Denied
+CLM0004707,DEN0000423,CO-50,Service not medically necessary,250.88,2024-12-30,Yes,Denied,2025-02-06,Denied
+CLM0004724,DEN0000424,CO-18,Duplicate claim or service,966.55,2025-01-04,No,Not Appealed,,Not Appealed
+CLM0004727,DEN0000425,CO-18,Duplicate claim or service,160.27,2025-01-04,No,Not Appealed,,Not Appealed
+CLM0004728,DEN0000426,CO-18,Duplicate claim or service,184.99,2024-11-20,No,Not Appealed,,Not Appealed
+CLM0004729,DEN0000427,CO-29,Timely filing limit expired,176.71,2024-11-11,Yes,Pending,,Pending
+CLM0004747,DEN0000428,CO-96,Non-covered charge,12011.28,2024-12-22,Yes,Denied,2025-02-26,Denied
+CLM0004755,DEN0000429,CO-16,Missing or incomplete claim information,653.18,2024-12-05,No,Not Appealed,,Not Appealed
+CLM0004758,DEN0000430,CO-50,Service not medically necessary,189.01,2024-11-21,Yes,Approved,2025-01-05,Approved
+CLM0004759,DEN0000431,CO-96,Non-covered charge,2468.01,2024-12-29,No,Not Appealed,,Not Appealed
+CLM0004760,DEN0000432,CO-96,Non-covered charge,475.92,2024-12-07,No,Not Appealed,,Not Appealed
+CLM0004771,DEN0000433,CO-50,Service not medically necessary,1552.36,2024-12-04,Yes,Denied,2025-02-14,Denied
+CLM0004803,DEN0000434,CO-197,Precertification or authorization absent,229.08,2024-12-01,No,Not Appealed,,Not Appealed
+CLM0004809,DEN0000435,CO-96,Non-covered charge,596.21,2024-12-06,Yes,Approved,2025-02-23,Approved
+CLM0004815,DEN0000436,CO-29,Timely filing limit expired,230.00,2024-12-27,No,Not Appealed,,Not Appealed
+CLM0004841,DEN0000437,CO-18,Duplicate claim or service,173.01,2024-12-11,No,Not Appealed,,Not Appealed
+CLM0004843,DEN0000438,CO-197,Precertification or authorization absent,208.17,2024-12-22,Yes,Denied,2025-02-20,Denied
+CLM0004860,DEN0000439,CO-50,Service not medically necessary,107.32,2024-12-17,Yes,Denied,2025-02-14,Denied
+CLM0004862,DEN0000440,CO-50,Service not medically necessary,131.74,2024-12-18,No,Not Appealed,,Not Appealed
+CLM0004878,DEN0000441,CO-16,Missing or incomplete claim information,204.23,2024-12-07,Yes,Denied,2024-12-28,Denied
+CLM0004890,DEN0000442,CO-29,Timely filing limit expired,174.10,2024-12-16,Yes,Denied,2025-02-17,Denied
+CLM0004894,DEN0000443,CO-197,Precertification or authorization absent,178.96,2024-11-16,No,Not Appealed,,Not Appealed
+CLM0004896,DEN0000444,CO-50,Service not medically necessary,200.55,2025-01-13,No,Not Appealed,,Not Appealed
+CLM0004911,DEN0000445,CO-50,Service not medically necessary,110.38,2024-12-26,No,Not Appealed,,Not Appealed
+CLM0004919,DEN0000446,CO-197,Precertification or authorization absent,218.85,2024-12-24,Yes,Approved,2025-02-05,Approved
+CLM0004931,DEN0000447,CO-18,Duplicate claim or service,1574.84,2024-12-03,Yes,Denied,2024-12-19,Denied
+CLM0004932,DEN0000448,CO-96,Non-covered charge,307.05,2024-12-21,Yes,Approved,2025-02-15,Approved
+CLM0004935,DEN0000449,CO-96,Non-covered charge,214.71,2024-12-27,Yes,Denied,2025-01-30,Denied
+CLM0004939,DEN0000450,CO-29,Timely filing limit expired,1701.93,2025-01-23,No,Not Appealed,,Not Appealed
+CLM0004948,DEN0000451,CO-16,Missing or incomplete claim information,128.59,2024-12-21,Yes,Approved,2025-03-04,Approved
+CLM0004950,DEN0000452,CO-29,Timely filing limit expired,1083.27,2024-11-24,No,Not Appealed,,Not Appealed
+CLM0004970,DEN0000453,CO-96,Non-covered charge,1360.25,2024-12-31,No,Not Appealed,,Not Appealed
+CLM0004974,DEN0000454,CO-18,Duplicate claim or service,181.23,2025-01-02,Yes,Denied,2025-02-23,Denied
+CLM0004999,DEN0000455,CO-29,Timely filing limit expired,431.09,2025-01-06,Yes,Pending,,Pending
+CLM0005001,DEN0000456,CO-197,Precertification or authorization absent,237.56,2025-01-08,Yes,Pending,,Pending
+CLM0005004,DEN0000457,CO-29,Timely filing limit expired,330.77,2024-12-04,Yes,Denied,2025-02-17,Denied
+CLM0005047,DEN0000458,CO-96,Non-covered charge,1297.68,2025-01-12,No,Not Appealed,,Not Appealed
+CLM0005049,DEN0000459,CO-29,Timely filing limit expired,1893.35,2024-12-23,No,Not Appealed,,Not Appealed
+CLM0005067,DEN0000460,CO-18,Duplicate claim or service,463.89,2024-12-29,Yes,Pending,,Pending
+CLM0005086,DEN0000461,CO-197,Precertification or authorization absent,453.85,2025-01-14,No,Not Appealed,,Not Appealed
+CLM0005095,DEN0000462,CO-96,Non-covered charge,244.59,2024-12-31,Yes,Approved,2025-02-02,Approved
+CLM0005106,DEN0000463,CO-197,Precertification or authorization absent,1588.12,2025-01-15,No,Not Appealed,,Not Appealed
+CLM0005113,DEN0000464,CO-96,Non-covered charge,213.40,2025-01-05,Yes,Pending,,Pending
+CLM0005119,DEN0000465,CO-16,Missing or incomplete claim information,221.42,2024-12-24,No,Not Appealed,,Not Appealed
+CLM0005126,DEN0000466,CO-197,Precertification or authorization absent,2003.18,2025-01-31,No,Not Appealed,,Not Appealed
+CLM0005133,DEN0000467,CO-18,Duplicate claim or service,155.46,2024-12-27,No,Not Appealed,,Not Appealed
+CLM0005143,DEN0000468,CO-96,Non-covered charge,1845.78,2024-12-13,No,Not Appealed,,Not Appealed
+CLM0005158,DEN0000469,CO-96,Non-covered charge,255.51,2025-01-06,Yes,Pending,,Pending
+CLM0005182,DEN0000470,CO-16,Missing or incomplete claim information,1034.07,2025-01-29,No,Not Appealed,,Not Appealed
+CLM0005193,DEN0000471,CO-29,Timely filing limit expired,410.46,2025-01-18,No,Not Appealed,,Not Appealed
+CLM0005194,DEN0000472,CO-50,Service not medically necessary,433.51,2025-01-09,No,Not Appealed,,Not Appealed
+CLM0005201,DEN0000473,CO-197,Precertification or authorization absent,377.42,2025-01-22,Yes,Denied,2025-04-08,Denied
+CLM0005207,DEN0000474,CO-96,Non-covered charge,238.38,2024-12-27,No,Not Appealed,,Not Appealed
+CLM0005225,DEN0000475,CO-50,Service not medically necessary,149.50,2024-12-30,No,Not Appealed,,Not Appealed
+CLM0005229,DEN0000476,CO-29,Timely filing limit expired,479.77,2025-01-25,No,Not Appealed,,Not Appealed
+CLM0005235,DEN0000477,CO-50,Service not medically necessary,256.42,2025-01-06,No,Not Appealed,,Not Appealed
+CLM0005239,DEN0000478,CO-50,Service not medically necessary,6349.46,2025-02-09,No,Not Appealed,,Not Appealed
+CLM0005242,DEN0000479,CO-16,Missing or incomplete claim information,683.25,2025-01-16,No,Not Appealed,,Not Appealed
+CLM0005262,DEN0000480,CO-18,Duplicate claim or service,205.37,2024-12-29,No,Not Appealed,,Not Appealed
+CLM0005273,DEN0000481,CO-16,Missing or incomplete claim information,217.33,2025-01-25,No,Not Appealed,,Not Appealed
+CLM0005284,DEN0000482,CO-29,Timely filing limit expired,191.61,2025-02-02,No,Not Appealed,,Not Appealed
+CLM0005317,DEN0000483,CO-50,Service not medically necessary,151.28,2025-01-15,Yes,Pending,,Pending
+CLM0005352,DEN0000484,CO-18,Duplicate claim or service,455.42,2025-02-07,No,Not Appealed,,Not Appealed
+CLM0005360,DEN0000485,CO-29,Timely filing limit expired,188.11,2024-12-20,No,Not Appealed,,Not Appealed
+CLM0005361,DEN0000486,CO-18,Duplicate claim or service,231.01,2025-02-16,Yes,Denied,2025-05-06,Denied
+CLM0005370,DEN0000487,CO-29,Timely filing limit expired,209.09,2025-02-08,No,Not Appealed,,Not Appealed
+CLM0005384,DEN0000488,CO-50,Service not medically necessary,1325.41,2025-02-11,No,Not Appealed,,Not Appealed
+CLM0005391,DEN0000489,CO-29,Timely filing limit expired,516.82,2024-12-17,No,Not Appealed,,Not Appealed
+CLM0005392,DEN0000490,CO-16,Missing or incomplete claim information,561.03,2024-12-19,No,Not Appealed,,Not Appealed
+CLM0005408,DEN0000491,CO-50,Service not medically necessary,155.85,2025-01-13,No,Not Appealed,,Not Appealed
+CLM0005417,DEN0000492,CO-50,Service not medically necessary,1888.03,2025-01-15,No,Not Appealed,,Not Appealed
+CLM0005418,DEN0000493,CO-16,Missing or incomplete claim information,149.28,2025-01-07,No,Not Appealed,,Not Appealed
+CLM0005442,DEN0000494,CO-197,Precertification or authorization absent,265.95,2025-01-22,Yes,Denied,2025-03-02,Denied
+CLM0005456,DEN0000495,CO-197,Precertification or authorization absent,260.87,2024-12-22,Yes,Denied,2025-01-12,Denied
+CLM0005459,DEN0000496,CO-18,Duplicate claim or service,1359.00,2025-02-26,No,Not Appealed,,Not Appealed
+CLM0005480,DEN0000497,CO-29,Timely filing limit expired,1602.17,2025-02-16,No,Not Appealed,,Not Appealed
+CLM0005504,DEN0000498,CO-29,Timely filing limit expired,168.20,2025-01-31,No,Not Appealed,,Not Appealed
+CLM0005514,DEN0000499,CO-50,Service not medically necessary,473.38,2025-01-11,No,Not Appealed,,Not Appealed
+CLM0005516,DEN0000500,CO-50,Service not medically necessary,195.91,2025-02-13,Yes,Denied,2025-04-22,Denied
+CLM0005540,DEN0000501,CO-29,Timely filing limit expired,238.40,2025-02-18,No,Not Appealed,,Not Appealed
+CLM0005546,DEN0000502,CO-16,Missing or incomplete claim information,330.02,2025-01-30,No,Not Appealed,,Not Appealed
+CLM0005547,DEN0000503,CO-29,Timely filing limit expired,578.23,2025-02-12,No,Not Appealed,,Not Appealed
+CLM0005548,DEN0000504,CO-18,Duplicate claim or service,255.88,2025-02-04,No,Not Appealed,,Not Appealed
+CLM0005566,DEN0000505,CO-96,Non-covered charge,1808.03,2025-01-23,No,Not Appealed,,Not Appealed
+CLM0005577,DEN0000506,CO-29,Timely filing limit expired,312.30,2025-02-14,Yes,Pending,,Pending
+CLM0005586,DEN0000507,CO-50,Service not medically necessary,198.29,2025-01-28,No,Not Appealed,,Not Appealed
+CLM0005597,DEN0000508,CO-16,Missing or incomplete claim information,224.09,2025-02-07,Yes,Pending,,Pending
+CLM0005624,DEN0000509,CO-18,Duplicate claim or service,1589.13,2025-02-13,No,Not Appealed,,Not Appealed
+CLM0005655,DEN0000510,CO-50,Service not medically necessary,484.92,2025-03-06,No,Not Appealed,,Not Appealed
+CLM0005668,DEN0000511,CO-16,Missing or incomplete claim information,3339.16,2025-02-09,Yes,Denied,2025-03-09,Denied
+CLM0005671,DEN0000512,CO-29,Timely filing limit expired,189.48,2025-01-18,Yes,Denied,2025-03-24,Denied
+CLM0005673,DEN0000513,CO-29,Timely filing limit expired,179.24,2025-01-20,No,Not Appealed,,Not Appealed
+CLM0005676,DEN0000514,CO-96,Non-covered charge,246.64,2025-01-11,No,Not Appealed,,Not Appealed
+CLM0005684,DEN0000515,CO-50,Service not medically necessary,189.96,2025-02-18,No,Not Appealed,,Not Appealed
+CLM0005709,DEN0000516,CO-96,Non-covered charge,207.25,2025-02-19,No,Not Appealed,,Not Appealed
+CLM0005717,DEN0000517,CO-197,Precertification or authorization absent,270.99,2025-01-23,No,Not Appealed,,Not Appealed
+CLM0005745,DEN0000518,CO-50,Service not medically necessary,214.77,2025-01-24,No,Not Appealed,,Not Appealed
+CLM0005753,DEN0000519,CO-16,Missing or incomplete claim information,232.83,2025-03-13,No,Not Appealed,,Not Appealed
+CLM0005755,DEN0000520,CO-29,Timely filing limit expired,141.61,2025-01-27,No,Not Appealed,,Not Appealed
+CLM0005766,DEN0000521,CO-16,Missing or incomplete claim information,394.88,2025-02-02,No,Not Appealed,,Not Appealed
+CLM0005773,DEN0000522,CO-96,Non-covered charge,707.32,2025-02-27,No,Not Appealed,,Not Appealed
+CLM0005776,DEN0000523,CO-197,Precertification or authorization absent,419.07,2025-02-24,Yes,Denied,2025-03-24,Denied
+CLM0005782,DEN0000524,CO-29,Timely filing limit expired,159.72,2025-02-01,Yes,Approved,2025-02-16,Approved
+CLM0005814,DEN0000525,CO-16,Missing or incomplete claim information,212.78,2025-01-27,No,Not Appealed,,Not Appealed
+CLM0005825,DEN0000526,CO-18,Duplicate claim or service,1432.84,2025-01-25,No,Not Appealed,,Not Appealed
+CLM0005831,DEN0000527,CO-29,Timely filing limit expired,538.87,2025-02-15,Yes,Approved,2025-03-17,Approved
+CLM0005840,DEN0000528,CO-50,Service not medically necessary,509.69,2025-03-08,No,Not Appealed,,Not Appealed
+CLM0005847,DEN0000529,CO-197,Precertification or authorization absent,145.16,2025-01-31,Yes,Denied,2025-04-21,Denied
+CLM0005848,DEN0000530,CO-29,Timely filing limit expired,173.42,2025-02-26,Yes,Approved,2025-04-03,Approved
+CLM0005851,DEN0000531,CO-50,Service not medically necessary,235.98,2025-02-08,No,Not Appealed,,Not Appealed
+CLM0005853,DEN0000532,CO-18,Duplicate claim or service,203.58,2025-01-24,Yes,Approved,2025-02-13,Approved
+CLM0005854,DEN0000533,CO-29,Timely filing limit expired,923.46,2025-02-19,No,Not Appealed,,Not Appealed
+CLM0005858,DEN0000534,CO-50,Service not medically necessary,13917.95,2025-03-04,Yes,Denied,2025-05-13,Denied
+CLM0005871,DEN0000535,CO-197,Precertification or authorization absent,230.12,2025-01-28,No,Not Appealed,,Not Appealed
+CLM0005874,DEN0000536,CO-29,Timely filing limit expired,306.63,2025-02-22,No,Not Appealed,,Not Appealed
+CLM0005906,DEN0000537,CO-16,Missing or incomplete claim information,101.07,2025-02-08,Yes,Pending,,Pending
+CLM0005919,DEN0000538,CO-29,Timely filing limit expired,116.62,2025-03-04,Yes,Pending,,Pending
+CLM0005921,DEN0000539,CO-29,Timely filing limit expired,1937.20,2025-02-28,No,Not Appealed,,Not Appealed
+CLM0005924,DEN0000540,CO-16,Missing or incomplete claim information,1136.34,2025-02-18,Yes,Denied,2025-05-07,Denied
+CLM0005928,DEN0000541,CO-18,Duplicate claim or service,156.30,2025-03-04,Yes,Approved,2025-03-21,Approved
+CLM0005939,DEN0000542,CO-197,Precertification or authorization absent,1302.86,2025-02-15,Yes,Denied,2025-04-09,Denied
+CLM0005948,DEN0000543,CO-197,Precertification or authorization absent,351.34,2025-01-26,No,Not Appealed,,Not Appealed
+CLM0005953,DEN0000544,CO-18,Duplicate claim or service,1668.35,2025-03-22,Yes,Denied,2025-05-24,Denied
+CLM0005957,DEN0000545,CO-96,Non-covered charge,292.74,2025-01-21,No,Not Appealed,,Not Appealed
+CLM0005964,DEN0000546,CO-96,Non-covered charge,229.48,2025-03-31,No,Not Appealed,,Not Appealed
+CLM0005968,DEN0000547,CO-16,Missing or incomplete claim information,1451.20,2025-02-19,Yes,Approved,2025-03-16,Approved
+CLM0006005,DEN0000548,CO-50,Service not medically necessary,108.40,2025-01-21,No,Not Appealed,,Not Appealed
+CLM0006035,DEN0000549,CO-29,Timely filing limit expired,226.18,2025-02-11,No,Not Appealed,,Not Appealed
+CLM0006039,DEN0000550,CO-50,Service not medically necessary,191.52,2025-02-28,No,Not Appealed,,Not Appealed
+CLM0006050,DEN0000551,CO-96,Non-covered charge,147.46,2025-02-24,Yes,Denied,2025-04-17,Denied
+CLM0006057,DEN0000552,CO-16,Missing or incomplete claim information,969.87,2025-03-13,Yes,Approved,2025-04-16,Approved
+CLM0006124,DEN0000553,CO-50,Service not medically necessary,4805.00,2025-02-15,Yes,Denied,2025-05-06,Denied
+CLM0006147,DEN0000554,CO-18,Duplicate claim or service,223.09,2025-03-13,Yes,Approved,2025-05-05,Approved
+CLM0006157,DEN0000555,CO-16,Missing or incomplete claim information,171.62,2025-03-26,Yes,Denied,2025-04-25,Denied
+CLM0006182,DEN0000556,CO-18,Duplicate claim or service,176.76,2025-04-04,No,Not Appealed,,Not Appealed
+CLM0006194,DEN0000557,CO-16,Missing or incomplete claim information,617.46,2025-02-28,No,Not Appealed,,Not Appealed
+CLM0006206,DEN0000558,CO-29,Timely filing limit expired,1757.63,2025-03-03,Yes,Pending,,Pending
+CLM0006207,DEN0000559,CO-197,Precertification or authorization absent,1527.25,2025-03-14,No,Not Appealed,,Not Appealed
+CLM0006246,DEN0000560,CO-197,Precertification or authorization absent,236.45,2025-03-02,Yes,Approved,2025-04-23,Approved
+CLM0006277,DEN0000561,CO-96,Non-covered charge,222.26,2025-04-19,Yes,Denied,2025-07-06,Denied
+CLM0006284,DEN0000562,CO-96,Non-covered charge,193.41,2025-04-12,No,Not Appealed,,Not Appealed
+CLM0006298,DEN0000563,CO-50,Service not medically necessary,299.10,2025-03-29,No,Not Appealed,,Not Appealed
+CLM0006305,DEN0000564,CO-18,Duplicate claim or service,224.63,2025-04-01,No,Not Appealed,,Not Appealed
+CLM0006321,DEN0000565,CO-16,Missing or incomplete claim information,488.84,2025-03-29,No,Not Appealed,,Not Appealed
+CLM0006395,DEN0000566,CO-50,Service not medically necessary,206.90,2025-04-01,Yes,Approved,2025-06-06,Approved
+CLM0006398,DEN0000567,CO-16,Missing or incomplete claim information,177.66,2025-03-01,No,Not Appealed,,Not Appealed
+CLM0006440,DEN0000568,CO-50,Service not medically necessary,220.65,2025-03-25,No,Not Appealed,,Not Appealed
+CLM0006451,DEN0000569,CO-16,Missing or incomplete claim information,187.80,2025-03-31,No,Not Appealed,,Not Appealed
+CLM0006453,DEN0000570,CO-197,Precertification or authorization absent,354.33,2025-03-10,No,Not Appealed,,Not Appealed
+CLM0006456,DEN0000571,CO-29,Timely filing limit expired,121.27,2025-02-26,No,Not Appealed,,Not Appealed
+CLM0006461,DEN0000572,CO-29,Timely filing limit expired,427.57,2025-02-28,No,Not Appealed,,Not Appealed
+CLM0006462,DEN0000573,CO-16,Missing or incomplete claim information,222.11,2025-03-15,Yes,Denied,2025-04-05,Denied
+CLM0006491,DEN0000574,CO-16,Missing or incomplete claim information,160.85,2025-03-17,No,Not Appealed,,Not Appealed
+CLM0006493,DEN0000575,CO-197,Precertification or authorization absent,197.58,2025-04-19,No,Not Appealed,,Not Appealed
+CLM0006505,DEN0000576,CO-16,Missing or incomplete claim information,242.79,2025-03-14,No,Not Appealed,,Not Appealed
+CLM0006512,DEN0000577,CO-197,Precertification or authorization absent,111.35,2025-03-26,No,Not Appealed,,Not Appealed
+CLM0006515,DEN0000578,CO-96,Non-covered charge,308.52,2025-04-22,No,Not Appealed,,Not Appealed
+CLM0006518,DEN0000579,CO-197,Precertification or authorization absent,128.41,2025-04-15,No,Not Appealed,,Not Appealed
+CLM0006519,DEN0000580,CO-50,Service not medically necessary,204.38,2025-03-20,Yes,Pending,,Pending
+CLM0006521,DEN0000581,CO-197,Precertification or authorization absent,1467.65,2025-03-12,No,Not Appealed,,Not Appealed
+CLM0006536,DEN0000582,CO-29,Timely filing limit expired,208.46,2025-04-03,No,Not Appealed,,Not Appealed
+CLM0006548,DEN0000583,CO-50,Service not medically necessary,2281.75,2025-04-03,Yes,Denied,2025-05-02,Denied
+CLM0006549,DEN0000584,CO-29,Timely filing limit expired,226.39,2025-04-17,No,Not Appealed,,Not Appealed
+CLM0006559,DEN0000585,CO-18,Duplicate claim or service,1509.74,2025-03-22,No,Not Appealed,,Not Appealed
+CLM0006574,DEN0000586,CO-29,Timely filing limit expired,323.98,2025-04-10,No,Not Appealed,,Not Appealed
+CLM0006601,DEN0000587,CO-50,Service not medically necessary,167.19,2025-04-01,Yes,Denied,2025-04-26,Denied
+CLM0006614,DEN0000588,CO-96,Non-covered charge,502.73,2025-04-30,Yes,Approved,2025-05-31,Approved
+CLM0006625,DEN0000589,CO-50,Service not medically necessary,280.57,2025-03-19,No,Not Appealed,,Not Appealed
+CLM0006630,DEN0000590,CO-197,Precertification or authorization absent,190.03,2025-04-13,No,Not Appealed,,Not Appealed
+CLM0006639,DEN0000591,CO-16,Missing or incomplete claim information,131.96,2025-03-05,Yes,Pending,,Pending
+CLM0006664,DEN0000592,CO-197,Precertification or authorization absent,348.28,2025-04-13,Yes,Denied,2025-05-20,Denied
+CLM0006671,DEN0000593,CO-29,Timely filing limit expired,349.48,2025-04-06,Yes,Denied,2025-06-20,Denied
+CLM0006678,DEN0000594,CO-50,Service not medically necessary,221.62,2025-04-10,No,Not Appealed,,Not Appealed
+CLM0006687,DEN0000595,CO-18,Duplicate claim or service,113.18,2025-03-27,No,Not Appealed,,Not Appealed
+CLM0006697,DEN0000596,CO-197,Precertification or authorization absent,392.53,2025-03-14,Yes,Approved,2025-05-26,Approved
+CLM0006727,DEN0000597,CO-18,Duplicate claim or service,110.65,2025-04-12,Yes,Approved,2025-05-17,Approved
+CLM0006741,DEN0000598,CO-96,Non-covered charge,211.77,2025-04-19,Yes,Denied,2025-07-05,Denied
+CLM0006750,DEN0000599,CO-18,Duplicate claim or service,1533.32,2025-04-21,Yes,Pending,,Pending
+CLM0006764,DEN0000600,CO-16,Missing or incomplete claim information,1989.79,2025-05-02,No,Not Appealed,,Not Appealed
+CLM0006783,DEN0000601,CO-29,Timely filing limit expired,1934.60,2025-05-09,Yes,Pending,,Pending
+CLM0006785,DEN0000602,CO-50,Service not medically necessary,285.28,2025-03-29,No,Not Appealed,,Not Appealed
+CLM0006786,DEN0000603,CO-29,Timely filing limit expired,1817.31,2025-04-04,No,Not Appealed,,Not Appealed
+CLM0006806,DEN0000604,CO-29,Timely filing limit expired,135.72,2025-04-24,Yes,Denied,2025-07-04,Denied
+CLM0006818,DEN0000605,CO-29,Timely filing limit expired,521.33,2025-04-06,Yes,Approved,2025-04-24,Approved
+CLM0006838,DEN0000606,CO-96,Non-covered charge,240.37,2025-04-28,No,Not Appealed,,Not Appealed
+CLM0006845,DEN0000607,CO-18,Duplicate claim or service,347.35,2025-05-09,Yes,Denied,2025-06-16,Denied
+CLM0006852,DEN0000608,CO-50,Service not medically necessary,285.81,2025-04-23,No,Not Appealed,,Not Appealed
+CLM0006867,DEN0000609,CO-16,Missing or incomplete claim information,219.17,2025-04-22,No,Not Appealed,,Not Appealed
+CLM0006878,DEN0000610,CO-96,Non-covered charge,195.97,2025-05-13,No,Not Appealed,,Not Appealed
+CLM0006884,DEN0000611,CO-18,Duplicate claim or service,134.17,2025-04-18,No,Not Appealed,,Not Appealed
+CLM0006889,DEN0000612,CO-18,Duplicate claim or service,254.37,2025-05-03,Yes,Denied,2025-05-19,Denied
+CLM0006911,DEN0000613,CO-96,Non-covered charge,413.89,2025-04-20,No,Not Appealed,,Not Appealed
+CLM0006921,DEN0000614,CO-16,Missing or incomplete claim information,783.75,2025-04-07,No,Not Appealed,,Not Appealed
+CLM0006923,DEN0000615,CO-16,Missing or incomplete claim information,167.03,2025-04-21,Yes,Pending,,Pending
+CLM0006929,DEN0000616,CO-18,Duplicate claim or service,1444.67,2025-05-06,No,Not Appealed,,Not Appealed
+CLM0006966,DEN0000617,CO-29,Timely filing limit expired,256.56,2025-04-27,No,Not Appealed,,Not Appealed
+CLM0006967,DEN0000618,CO-29,Timely filing limit expired,2201.79,2025-03-31,No,Not Appealed,,Not Appealed
+CLM0006972,DEN0000619,CO-197,Precertification or authorization absent,507.28,2025-04-13,Yes,Approved,2025-06-21,Approved
+CLM0006985,DEN0000620,CO-18,Duplicate claim or service,196.02,2025-05-20,Yes,Approved,2025-08-07,Approved
+CLM0006987,DEN0000621,CO-18,Duplicate claim or service,316.82,2025-04-15,Yes,Denied,2025-05-07,Denied
+CLM0006990,DEN0000622,CO-16,Missing or incomplete claim information,1170.17,2025-04-20,Yes,Denied,2025-05-26,Denied
+CLM0007010,DEN0000623,CO-96,Non-covered charge,862.97,2025-04-16,No,Not Appealed,,Not Appealed
+CLM0007015,DEN0000624,CO-29,Timely filing limit expired,1004.81,2025-05-09,Yes,Pending,,Pending
+CLM0007016,DEN0000625,CO-18,Duplicate claim or service,209.81,2025-03-31,Yes,Denied,2025-05-21,Denied
+CLM0007029,DEN0000626,CO-18,Duplicate claim or service,165.09,2025-05-29,Yes,Approved,2025-08-10,Approved
+CLM0007062,DEN0000627,CO-50,Service not medically necessary,294.40,2025-05-09,No,Not Appealed,,Not Appealed
+CLM0007071,DEN0000628,CO-18,Duplicate claim or service,378.93,2025-04-28,No,Not Appealed,,Not Appealed
+CLM0007078,DEN0000629,CO-96,Non-covered charge,225.40,2025-05-20,Yes,Denied,2025-06-17,Denied
+CLM0007093,DEN0000630,CO-16,Missing or incomplete claim information,97.68,2025-04-11,No,Not Appealed,,Not Appealed
+CLM0007099,DEN0000631,CO-29,Timely filing limit expired,1697.45,2025-04-24,No,Not Appealed,,Not Appealed
+CLM0007124,DEN0000632,CO-18,Duplicate claim or service,667.49,2025-05-28,No,Not Appealed,,Not Appealed
+CLM0007137,DEN0000633,CO-18,Duplicate claim or service,374.61,2025-05-16,No,Not Appealed,,Not Appealed
+CLM0007147,DEN0000634,CO-50,Service not medically necessary,153.32,2025-05-05,Yes,Approved,2025-06-07,Approved
+CLM0007151,DEN0000635,CO-16,Missing or incomplete claim information,165.91,2025-04-10,Yes,Denied,2025-06-07,Denied
+CLM0007164,DEN0000636,CO-29,Timely filing limit expired,802.44,2025-04-24,No,Not Appealed,,Not Appealed
+CLM0007172,DEN0000637,CO-16,Missing or incomplete claim information,168.84,2025-05-22,Yes,Pending,,Pending
+CLM0007178,DEN0000638,CO-96,Non-covered charge,353.67,2025-05-14,No,Not Appealed,,Not Appealed
+CLM0007182,DEN0000639,CO-197,Precertification or authorization absent,222.17,2025-03-28,No,Not Appealed,,Not Appealed
+CLM0007183,DEN0000640,CO-16,Missing or incomplete claim information,175.95,2025-05-06,Yes,Approved,2025-06-04,Approved
+CLM0007184,DEN0000641,CO-29,Timely filing limit expired,199.56,2025-04-04,No,Not Appealed,,Not Appealed
+CLM0007190,DEN0000642,CO-197,Precertification or authorization absent,258.47,2025-05-07,Yes,Denied,2025-06-04,Denied
+CLM0007191,DEN0000643,CO-96,Non-covered charge,246.18,2025-05-03,No,Not Appealed,,Not Appealed
+CLM0007209,DEN0000644,CO-96,Non-covered charge,142.94,2025-04-30,No,Not Appealed,,Not Appealed
+CLM0007210,DEN0000645,CO-18,Duplicate claim or service,128.59,2025-04-05,No,Not Appealed,,Not Appealed
+CLM0007216,DEN0000646,CO-96,Non-covered charge,259.38,2025-05-09,No,Not Appealed,,Not Appealed
+CLM0007219,DEN0000647,CO-96,Non-covered charge,252.02,2025-05-27,Yes,Approved,2025-07-11,Approved
+CLM0007243,DEN0000648,CO-29,Timely filing limit expired,180.65,2025-05-02,No,Not Appealed,,Not Appealed
+CLM0007244,DEN0000649,CO-18,Duplicate claim or service,427.36,2025-04-12,No,Not Appealed,,Not Appealed
+CLM0007260,DEN0000650,CO-16,Missing or incomplete claim information,200.77,2025-05-01,Yes,Pending,,Pending
+CLM0007274,DEN0000651,CO-50,Service not medically necessary,461.41,2025-05-12,Yes,Pending,,Pending
+CLM0007280,DEN0000652,CO-50,Service not medically necessary,2664.81,2025-04-01,No,Not Appealed,,Not Appealed
+CLM0007288,DEN0000653,CO-96,Non-covered charge,1379.19,2025-04-17,No,Not Appealed,,Not Appealed
+CLM0007291,DEN0000654,CO-18,Duplicate claim or service,1008.09,2025-05-17,Yes,Denied,2025-07-01,Denied
+CLM0007294,DEN0000655,CO-197,Precertification or authorization absent,474.90,2025-05-01,No,Not Appealed,,Not Appealed
+CLM0007309,DEN0000656,CO-18,Duplicate claim or service,228.21,2025-05-23,Yes,Denied,2025-06-14,Denied
+CLM0007318,DEN0000657,CO-197,Precertification or authorization absent,262.12,2025-06-09,No,Not Appealed,,Not Appealed
+CLM0007330,DEN0000658,CO-18,Duplicate claim or service,355.63,2025-05-29,No,Not Appealed,,Not Appealed
+CLM0007338,DEN0000659,CO-50,Service not medically necessary,224.37,2025-05-17,No,Not Appealed,,Not Appealed
+CLM0007350,DEN0000660,CO-96,Non-covered charge,1469.07,2025-05-06,No,Not Appealed,,Not Appealed
+CLM0007354,DEN0000661,CO-197,Precertification or authorization absent,163.65,2025-05-09,No,Not Appealed,,Not Appealed
+CLM0007369,DEN0000662,CO-16,Missing or incomplete claim information,374.42,2025-05-27,Yes,Denied,2025-06-21,Denied
+CLM0007381,DEN0000663,CO-18,Duplicate claim or service,12728.50,2025-06-01,No,Not Appealed,,Not Appealed
+CLM0007389,DEN0000664,CO-50,Service not medically necessary,197.76,2025-05-16,No,Not Appealed,,Not Appealed
+CLM0007390,DEN0000665,CO-96,Non-covered charge,228.07,2025-05-21,No,Not Appealed,,Not Appealed
+CLM0007400,DEN0000666,CO-29,Timely filing limit expired,317.52,2025-05-31,Yes,Approved,2025-07-16,Approved
+CLM0007403,DEN0000667,CO-50,Service not medically necessary,189.89,2025-06-05,No,Not Appealed,,Not Appealed
+CLM0007412,DEN0000668,CO-16,Missing or incomplete claim information,452.89,2025-04-17,Yes,Denied,2025-05-13,Denied
+CLM0007438,DEN0000669,CO-50,Service not medically necessary,146.81,2025-05-19,No,Not Appealed,,Not Appealed
+CLM0007446,DEN0000670,CO-29,Timely filing limit expired,274.21,2025-05-01,No,Not Appealed,,Not Appealed
+CLM0007455,DEN0000671,CO-16,Missing or incomplete claim information,185.78,2025-05-02,Yes,Denied,2025-07-18,Denied
+CLM0007456,DEN0000672,CO-18,Duplicate claim or service,238.78,2025-05-17,No,Not Appealed,,Not Appealed
+CLM0007462,DEN0000673,CO-29,Timely filing limit expired,164.34,2025-05-29,No,Not Appealed,,Not Appealed
+CLM0007464,DEN0000674,CO-197,Precertification or authorization absent,468.96,2025-05-25,Yes,Approved,2025-08-05,Approved
+CLM0007495,DEN0000675,CO-18,Duplicate claim or service,329.43,2025-05-10,Yes,Denied,2025-07-12,Denied
+CLM0007501,DEN0000676,CO-16,Missing or incomplete claim information,554.69,2025-05-09,No,Not Appealed,,Not Appealed
+CLM0007509,DEN0000677,CO-197,Precertification or authorization absent,2026.40,2025-06-04,No,Not Appealed,,Not Appealed
+CLM0007516,DEN0000678,CO-18,Duplicate claim or service,1668.37,2025-06-04,No,Not Appealed,,Not Appealed
+CLM0007529,DEN0000679,CO-16,Missing or incomplete claim information,589.67,2025-04-30,No,Not Appealed,,Not Appealed
+CLM0007547,DEN0000680,CO-197,Precertification or authorization absent,223.02,2025-05-11,No,Not Appealed,,Not Appealed
+CLM0007556,DEN0000681,CO-29,Timely filing limit expired,1585.54,2025-05-08,No,Not Appealed,,Not Appealed
+CLM0007573,DEN0000682,CO-96,Non-covered charge,102.58,2025-05-11,Yes,Approved,2025-06-28,Approved
+CLM0007587,DEN0000683,CO-197,Precertification or authorization absent,173.20,2025-05-30,No,Not Appealed,,Not Appealed
+CLM0007589,DEN0000684,CO-29,Timely filing limit expired,148.51,2025-05-27,No,Not Appealed,,Not Appealed
+CLM0007591,DEN0000685,CO-29,Timely filing limit expired,1727.22,2025-04-22,No,Not Appealed,,Not Appealed
+CLM0007594,DEN0000686,CO-96,Non-covered charge,185.00,2025-04-30,No,Not Appealed,,Not Appealed
+CLM0007621,DEN0000687,CO-50,Service not medically necessary,216.77,2025-04-26,Yes,Denied,2025-06-28,Denied
+CLM0007659,DEN0000688,CO-16,Missing or incomplete claim information,1642.81,2025-06-12,No,Not Appealed,,Not Appealed
+CLM0007666,DEN0000689,CO-18,Duplicate claim or service,220.74,2025-06-12,Yes,Approved,2025-08-14,Approved
+CLM0007670,DEN0000690,CO-29,Timely filing limit expired,252.31,2025-05-25,No,Not Appealed,,Not Appealed
+CLM0007691,DEN0000691,CO-96,Non-covered charge,2260.73,2025-04-28,No,Not Appealed,,Not Appealed
+CLM0007719,DEN0000692,CO-18,Duplicate claim or service,306.71,2025-06-05,Yes,Approved,2025-08-21,Approved
+CLM0007722,DEN0000693,CO-96,Non-covered charge,257.82,2025-05-23,No,Not Appealed,,Not Appealed
+CLM0007725,DEN0000694,CO-197,Precertification or authorization absent,141.45,2025-05-12,No,Not Appealed,,Not Appealed
+CLM0007759,DEN0000695,CO-50,Service not medically necessary,134.34,2025-06-28,No,Not Appealed,,Not Appealed
+CLM0007766,DEN0000696,CO-50,Service not medically necessary,187.87,2025-06-19,No,Not Appealed,,Not Appealed
+CLM0007767,DEN0000697,CO-50,Service not medically necessary,196.50,2025-05-27,No,Not Appealed,,Not Appealed
+CLM0007776,DEN0000698,CO-29,Timely filing limit expired,1938.13,2025-06-24,Yes,Denied,2025-08-16,Denied
+CLM0007783,DEN0000699,CO-16,Missing or incomplete claim information,183.63,2025-05-21,No,Not Appealed,,Not Appealed
+CLM0007785,DEN0000700,CO-18,Duplicate claim or service,263.59,2025-06-26,No,Not Appealed,,Not Appealed
+CLM0007787,DEN0000701,CO-18,Duplicate claim or service,108.18,2025-06-22,Yes,Denied,2025-07-18,Denied
+CLM0007842,DEN0000702,CO-197,Precertification or authorization absent,185.27,2025-07-05,Yes,Pending,,Pending
+CLM0007893,DEN0000703,CO-16,Missing or incomplete claim information,2006.54,2025-07-06,Yes,Pending,,Pending
+CLM0007902,DEN0000704,CO-18,Duplicate claim or service,3577.40,2025-05-27,No,Not Appealed,,Not Appealed
+CLM0007904,DEN0000705,CO-96,Non-covered charge,332.72,2025-05-27,No,Not Appealed,,Not Appealed
+CLM0007905,DEN0000706,CO-96,Non-covered charge,153.97,2025-06-21,Yes,Approved,2025-09-02,Approved
+CLM0007907,DEN0000707,CO-16,Missing or incomplete claim information,150.11,2025-05-30,No,Not Appealed,,Not Appealed
+CLM0007931,DEN0000708,CO-29,Timely filing limit expired,1643.38,2025-06-20,No,Not Appealed,,Not Appealed
+CLM0007951,DEN0000709,CO-96,Non-covered charge,167.44,2025-06-23,No,Not Appealed,,Not Appealed
+CLM0007953,DEN0000710,CO-29,Timely filing limit expired,145.05,2025-07-11,Yes,Approved,2025-09-22,Approved
+CLM0007967,DEN0000711,CO-18,Duplicate claim or service,178.10,2025-06-08,Yes,Approved,2025-06-24,Approved
+CLM0007968,DEN0000712,CO-29,Timely filing limit expired,269.89,2025-06-26,No,Not Appealed,,Not Appealed
+CLM0008040,DEN0000713,CO-96,Non-covered charge,239.22,2025-07-06,Yes,Approved,2025-09-10,Approved
+CLM0008049,DEN0000714,CO-50,Service not medically necessary,172.64,2025-07-20,Yes,Approved,2025-09-04,Approved
+CLM0008053,DEN0000715,CO-197,Precertification or authorization absent,163.93,2025-06-17,No,Not Appealed,,Not Appealed
+CLM0008054,DEN0000716,CO-18,Duplicate claim or service,206.92,2025-07-12,No,Not Appealed,,Not Appealed
+CLM0008071,DEN0000717,CO-96,Non-covered charge,210.31,2025-07-20,No,Not Appealed,,Not Appealed
+CLM0008088,DEN0000718,CO-16,Missing or incomplete claim information,263.29,2025-06-23,No,Not Appealed,,Not Appealed
+CLM0008110,DEN0000719,CO-50,Service not medically necessary,378.40,2025-06-16,No,Not Appealed,,Not Appealed
+CLM0008115,DEN0000720,CO-197,Precertification or authorization absent,312.20,2025-06-07,No,Not Appealed,,Not Appealed
+CLM0008121,DEN0000721,CO-18,Duplicate claim or service,222.31,2025-07-09,Yes,Pending,,Pending
+CLM0008132,DEN0000722,CO-29,Timely filing limit expired,2033.87,2025-05-31,Yes,Approved,2025-07-07,Approved
+CLM0008141,DEN0000723,CO-96,Non-covered charge,413.34,2025-06-14,No,Not Appealed,,Not Appealed
+CLM0008161,DEN0000724,CO-16,Missing or incomplete claim information,1391.75,2025-07-16,No,Not Appealed,,Not Appealed
+CLM0008164,DEN0000725,CO-18,Duplicate claim or service,142.66,2025-06-22,No,Not Appealed,,Not Appealed
+CLM0008179,DEN0000726,CO-96,Non-covered charge,296.71,2025-07-07,No,Not Appealed,,Not Appealed
+CLM0008204,DEN0000727,CO-96,Non-covered charge,170.03,2025-07-04,No,Not Appealed,,Not Appealed
+CLM0008268,DEN0000728,CO-50,Service not medically necessary,174.92,2025-07-08,No,Not Appealed,,Not Appealed
+CLM0008270,DEN0000729,CO-18,Duplicate claim or service,1072.39,2025-06-21,No,Not Appealed,,Not Appealed
+CLM0008276,DEN0000730,CO-29,Timely filing limit expired,2176.49,2025-06-22,Yes,Pending,,Pending
+CLM0008289,DEN0000731,CO-16,Missing or incomplete claim information,195.74,2025-06-01,No,Not Appealed,,Not Appealed
+CLM0008298,DEN0000732,CO-197,Precertification or authorization absent,619.76,2025-06-24,Yes,Approved,2025-08-05,Approved
+CLM0008316,DEN0000733,CO-16,Missing or incomplete claim information,354.78,2025-07-18,No,Not Appealed,,Not Appealed
+CLM0008326,DEN0000734,CO-16,Missing or incomplete claim information,7116.49,2025-07-15,No,Not Appealed,,Not Appealed
+CLM0008340,DEN0000735,CO-197,Precertification or authorization absent,4246.96,2025-06-30,Yes,Pending,,Pending
+CLM0008343,DEN0000736,CO-197,Precertification or authorization absent,141.42,2025-07-05,No,Not Appealed,,Not Appealed
+CLM0008347,DEN0000737,CO-50,Service not medically necessary,208.45,2025-07-02,No,Not Appealed,,Not Appealed
+CLM0008377,DEN0000738,CO-16,Missing or incomplete claim information,2352.91,2025-07-13,Yes,Pending,,Pending
+CLM0008387,DEN0000739,CO-18,Duplicate claim or service,316.50,2025-07-28,No,Not Appealed,,Not Appealed
+CLM0008396,DEN0000740,CO-16,Missing or incomplete claim information,241.68,2025-07-12,No,Not Appealed,,Not Appealed
+CLM0008406,DEN0000741,CO-29,Timely filing limit expired,157.16,2025-07-20,No,Not Appealed,,Not Appealed
+CLM0008423,DEN0000742,CO-16,Missing or incomplete claim information,1542.71,2025-07-25,Yes,Approved,2025-08-13,Approved
+CLM0008433,DEN0000743,CO-96,Non-covered charge,184.42,2025-06-25,Yes,Pending,,Pending
+CLM0008452,DEN0000744,CO-96,Non-covered charge,296.56,2025-07-15,Yes,Pending,,Pending
+CLM0008474,DEN0000745,CO-197,Precertification or authorization absent,239.72,2025-07-06,No,Not Appealed,,Not Appealed
+CLM0008479,DEN0000746,CO-50,Service not medically necessary,263.78,2025-06-26,Yes,Approved,2025-07-22,Approved
+CLM0008494,DEN0000747,CO-50,Service not medically necessary,2451.59,2025-07-16,Yes,Denied,2025-09-05,Denied
+CLM0008520,DEN0000748,CO-18,Duplicate claim or service,104.56,2025-07-26,No,Not Appealed,,Not Appealed
+CLM0008543,DEN0000749,CO-16,Missing or incomplete claim information,103.14,2025-07-13,No,Not Appealed,,Not Appealed
+CLM0008585,DEN0000750,CO-96,Non-covered charge,279.26,2025-07-23,No,Not Appealed,,Not Appealed
+CLM0008589,DEN0000751,CO-50,Service not medically necessary,1495.93,2025-08-02,No,Not Appealed,,Not Appealed
+CLM0008618,DEN0000752,CO-29,Timely filing limit expired,223.33,2025-06-25,No,Not Appealed,,Not Appealed
+CLM0008625,DEN0000753,CO-50,Service not medically necessary,216.31,2025-07-07,No,Not Appealed,,Not Appealed
+CLM0008629,DEN0000754,CO-16,Missing or incomplete claim information,443.57,2025-07-13,No,Not Appealed,,Not Appealed
+CLM0008631,DEN0000755,CO-29,Timely filing limit expired,275.69,2025-07-10,No,Not Appealed,,Not Appealed
+CLM0008634,DEN0000756,CO-96,Non-covered charge,338.65,2025-06-30,Yes,Approved,2025-07-18,Approved
+CLM0008648,DEN0000757,CO-16,Missing or incomplete claim information,540.04,2025-07-19,No,Not Appealed,,Not Appealed
+CLM0008649,DEN0000758,CO-197,Precertification or authorization absent,181.65,2025-06-17,No,Not Appealed,,Not Appealed
+CLM0008652,DEN0000759,CO-29,Timely filing limit expired,336.33,2025-06-27,No,Not Appealed,,Not Appealed
+CLM0008666,DEN0000760,CO-16,Missing or incomplete claim information,197.35,2025-07-17,No,Not Appealed,,Not Appealed
+CLM0008700,DEN0000761,CO-197,Precertification or authorization absent,169.63,2025-08-16,No,Not Appealed,,Not Appealed
+CLM0008716,DEN0000762,CO-197,Precertification or authorization absent,230.76,2025-08-05,Yes,Approved,2025-10-06,Approved
+CLM0008721,DEN0000763,CO-16,Missing or incomplete claim information,1660.00,2025-08-04,No,Not Appealed,,Not Appealed
+CLM0008741,DEN0000764,CO-29,Timely filing limit expired,106.17,2025-07-24,No,Not Appealed,,Not Appealed
+CLM0008742,DEN0000765,CO-96,Non-covered charge,976.96,2025-08-11,No,Not Appealed,,Not Appealed
+CLM0008752,DEN0000766,CO-18,Duplicate claim or service,205.77,2025-07-28,Yes,Approved,2025-10-06,Approved
+CLM0008754,DEN0000767,CO-29,Timely filing limit expired,180.01,2025-07-22,No,Not Appealed,,Not Appealed
+CLM0008764,DEN0000768,CO-96,Non-covered charge,131.16,2025-07-22,No,Not Appealed,,Not Appealed
+CLM0008765,DEN0000769,CO-197,Precertification or authorization absent,215.24,2025-07-10,No,Not Appealed,,Not Appealed
+CLM0008776,DEN0000770,CO-16,Missing or incomplete claim information,172.20,2025-08-05,No,Not Appealed,,Not Appealed
+CLM0008782,DEN0000771,CO-50,Service not medically necessary,149.04,2025-07-04,No,Not Appealed,,Not Appealed
+CLM0008794,DEN0000772,CO-197,Precertification or authorization absent,156.83,2025-08-19,Yes,Approved,2025-09-05,Approved
+CLM0008799,DEN0000773,CO-29,Timely filing limit expired,378.71,2025-07-28,No,Not Appealed,,Not Appealed
+CLM0008818,DEN0000774,CO-197,Precertification or authorization absent,2491.73,2025-08-10,Yes,Pending,,Pending
+CLM0008821,DEN0000775,CO-18,Duplicate claim or service,8861.34,2025-08-20,Yes,Pending,,Pending
+CLM0008851,DEN0000776,CO-16,Missing or incomplete claim information,177.94,2025-08-06,Yes,Pending,,Pending
+CLM0008857,DEN0000777,CO-18,Duplicate claim or service,233.75,2025-08-07,No,Not Appealed,,Not Appealed
+CLM0008867,DEN0000778,CO-29,Timely filing limit expired,250.25,2025-06-30,No,Not Appealed,,Not Appealed
+CLM0008914,DEN0000779,CO-197,Precertification or authorization absent,228.67,2025-08-21,No,Not Appealed,,Not Appealed
+CLM0008929,DEN0000780,CO-50,Service not medically necessary,168.31,2025-07-24,No,Not Appealed,,Not Appealed
+CLM0008930,DEN0000781,CO-29,Timely filing limit expired,229.45,2025-08-07,Yes,Denied,2025-10-02,Denied
+CLM0008943,DEN0000782,CO-96,Non-covered charge,155.01,2025-07-09,Yes,Denied,2025-08-12,Denied
+CLM0008963,DEN0000783,CO-50,Service not medically necessary,192.81,2025-08-28,No,Not Appealed,,Not Appealed
+CLM0008970,DEN0000784,CO-16,Missing or incomplete claim information,353.27,2025-07-17,No,Not Appealed,,Not Appealed
+CLM0008973,DEN0000785,CO-50,Service not medically necessary,227.95,2025-08-26,No,Not Appealed,,Not Appealed
+CLM0008976,DEN0000786,CO-18,Duplicate claim or service,110.13,2025-08-16,Yes,Denied,2025-09-11,Denied
+CLM0008977,DEN0000787,CO-50,Service not medically necessary,245.30,2025-09-11,Yes,Approved,2025-11-16,Approved
+CLM0009007,DEN0000788,CO-18,Duplicate claim or service,165.14,2025-08-08,Yes,Approved,2025-10-02,Approved
+CLM0009010,DEN0000789,CO-50,Service not medically necessary,2047.25,2025-08-15,No,Not Appealed,,Not Appealed
+CLM0009040,DEN0000790,CO-16,Missing or incomplete claim information,310.15,2025-08-25,No,Not Appealed,,Not Appealed
+CLM0009043,DEN0000791,CO-197,Precertification or authorization absent,619.89,2025-08-18,No,Not Appealed,,Not Appealed
+CLM0009045,DEN0000792,CO-197,Precertification or authorization absent,199.04,2025-08-16,No,Not Appealed,,Not Appealed
+CLM0009067,DEN0000793,CO-18,Duplicate claim or service,217.86,2025-08-27,No,Not Appealed,,Not Appealed
+CLM0009070,DEN0000794,CO-18,Duplicate claim or service,736.76,2025-07-25,No,Not Appealed,,Not Appealed
+CLM0009119,DEN0000795,CO-197,Precertification or authorization absent,195.24,2025-08-29,No,Not Appealed,,Not Appealed
+CLM0009120,DEN0000796,CO-18,Duplicate claim or service,1305.94,2025-08-25,Yes,Approved,2025-10-03,Approved
+CLM0009131,DEN0000797,CO-96,Non-covered charge,714.64,2025-09-11,No,Not Appealed,,Not Appealed
+CLM0009136,DEN0000798,CO-29,Timely filing limit expired,284.71,2025-08-27,No,Not Appealed,,Not Appealed
+CLM0009145,DEN0000799,CO-96,Non-covered charge,209.19,2025-08-30,Yes,Approved,2025-10-04,Approved
+CLM0009149,DEN0000800,CO-50,Service not medically necessary,228.82,2025-08-08,Yes,Denied,2025-09-25,Denied
+CLM0009155,DEN0000801,CO-96,Non-covered charge,453.59,2025-08-24,No,Not Appealed,,Not Appealed
+CLM0009163,DEN0000802,CO-96,Non-covered charge,139.66,2025-08-06,No,Not Appealed,,Not Appealed
+CLM0009172,DEN0000803,CO-96,Non-covered charge,152.77,2025-08-19,No,Not Appealed,,Not Appealed
+CLM0009194,DEN0000804,CO-18,Duplicate claim or service,132.28,2025-08-27,No,Not Appealed,,Not Appealed
+CLM0009199,DEN0000805,CO-50,Service not medically necessary,240.99,2025-08-08,Yes,Denied,2025-09-28,Denied
+CLM0009204,DEN0000806,CO-197,Precertification or authorization absent,658.78,2025-08-28,No,Not Appealed,,Not Appealed
+CLM0009209,DEN0000807,CO-16,Missing or incomplete claim information,1273.05,2025-08-16,No,Not Appealed,,Not Appealed
+CLM0009223,DEN0000808,CO-96,Non-covered charge,360.41,2025-08-15,Yes,Pending,,Pending
+CLM0009224,DEN0000809,CO-50,Service not medically necessary,1075.91,2025-07-22,No,Not Appealed,,Not Appealed
+CLM0009232,DEN0000810,CO-50,Service not medically necessary,213.87,2025-08-28,No,Not Appealed,,Not Appealed
+CLM0009240,DEN0000811,CO-16,Missing or incomplete claim information,292.32,2025-09-04,No,Not Appealed,,Not Appealed
+CLM0009245,DEN0000812,CO-50,Service not medically necessary,187.83,2025-08-30,No,Not Appealed,,Not Appealed
+CLM0009247,DEN0000813,CO-197,Precertification or authorization absent,1295.04,2025-08-01,No,Not Appealed,,Not Appealed
+CLM0009259,DEN0000814,CO-197,Precertification or authorization absent,177.91,2025-09-10,No,Not Appealed,,Not Appealed
+CLM0009290,DEN0000815,CO-50,Service not medically necessary,202.40,2025-08-28,Yes,Approved,2025-09-16,Approved
+CLM0009314,DEN0000816,CO-197,Precertification or authorization absent,4288.95,2025-08-01,No,Not Appealed,,Not Appealed
+CLM0009323,DEN0000817,CO-29,Timely filing limit expired,189.94,2025-08-21,No,Not Appealed,,Not Appealed
+CLM0009327,DEN0000818,CO-16,Missing or incomplete claim information,371.08,2025-09-08,No,Not Appealed,,Not Appealed
+CLM0009342,DEN0000819,CO-96,Non-covered charge,442.85,2025-08-27,No,Not Appealed,,Not Appealed
+CLM0009344,DEN0000820,CO-29,Timely filing limit expired,155.29,2025-08-11,Yes,Approved,2025-09-06,Approved
+CLM0009348,DEN0000821,CO-29,Timely filing limit expired,238.40,2025-08-28,No,Not Appealed,,Not Appealed
+CLM0009359,DEN0000822,CO-50,Service not medically necessary,778.81,2025-09-03,Yes,Approved,2025-10-22,Approved
+CLM0009378,DEN0000823,CO-29,Timely filing limit expired,254.27,2025-08-30,No,Not Appealed,,Not Appealed
+CLM0009406,DEN0000824,CO-29,Timely filing limit expired,1446.18,2025-08-09,No,Not Appealed,,Not Appealed
+CLM0009416,DEN0000825,CO-96,Non-covered charge,157.34,2025-08-29,Yes,Pending,,Pending
+CLM0009447,DEN0000826,CO-16,Missing or incomplete claim information,190.51,2025-09-26,Yes,Denied,2025-11-02,Denied
+CLM0009450,DEN0000827,CO-16,Missing or incomplete claim information,1959.49,2025-08-25,No,Not Appealed,,Not Appealed
+CLM0009457,DEN0000828,CO-96,Non-covered charge,179.27,2025-09-19,Yes,Pending,,Pending
+CLM0009471,DEN0000829,CO-18,Duplicate claim or service,199.37,2025-09-20,No,Not Appealed,,Not Appealed
+CLM0009501,DEN0000830,CO-29,Timely filing limit expired,179.16,2025-10-03,No,Not Appealed,,Not Appealed
+CLM0009520,DEN0000831,CO-29,Timely filing limit expired,1552.19,2025-09-11,No,Not Appealed,,Not Appealed
+CLM0009548,DEN0000832,CO-50,Service not medically necessary,317.70,2025-09-16,No,Not Appealed,,Not Appealed
+CLM0009556,DEN0000833,CO-29,Timely filing limit expired,433.16,2025-09-21,No,Not Appealed,,Not Appealed
+CLM0009568,DEN0000834,CO-29,Timely filing limit expired,245.10,2025-09-08,No,Not Appealed,,Not Appealed
+CLM0009571,DEN0000835,CO-197,Precertification or authorization absent,276.35,2025-08-29,Yes,Pending,,Pending
+CLM0009581,DEN0000836,CO-16,Missing or incomplete claim information,1683.61,2025-09-16,No,Not Appealed,,Not Appealed
+CLM0009594,DEN0000837,CO-16,Missing or incomplete claim information,223.23,2025-09-21,No,Not Appealed,,Not Appealed
+CLM0009597,DEN0000838,CO-16,Missing or incomplete claim information,513.29,2025-09-22,Yes,Denied,2025-11-08,Denied
+CLM0009605,DEN0000839,CO-16,Missing or incomplete claim information,156.12,2025-09-15,Yes,Approved,2025-10-21,Approved
+CLM0009609,DEN0000840,CO-16,Missing or incomplete claim information,1758.10,2025-09-12,Yes,Denied,2025-11-13,Denied
+CLM0009632,DEN0000841,CO-197,Precertification or authorization absent,306.87,2025-09-20,No,Not Appealed,,Not Appealed
+CLM0009646,DEN0000842,CO-18,Duplicate claim or service,1819.17,2025-08-30,No,Not Appealed,,Not Appealed
+CLM0009666,DEN0000843,CO-16,Missing or incomplete claim information,157.95,2025-08-28,No,Not Appealed,,Not Appealed
+CLM0009692,DEN0000844,CO-29,Timely filing limit expired,204.78,2025-10-07,No,Not Appealed,,Not Appealed
+CLM0009711,DEN0000845,CO-18,Duplicate claim or service,182.28,2025-09-10,No,Not Appealed,,Not Appealed
+CLM0009713,DEN0000846,CO-96,Non-covered charge,191.15,2025-10-01,No,Not Appealed,,Not Appealed
+CLM0009715,DEN0000847,CO-18,Duplicate claim or service,305.63,2025-09-17,Yes,Denied,2025-10-15,Denied
+CLM0009730,DEN0000848,CO-50,Service not medically necessary,317.55,2025-09-21,Yes,Approved,2025-10-11,Approved
+CLM0009736,DEN0000849,CO-96,Non-covered charge,584.76,2025-09-22,No,Not Appealed,,Not Appealed
+CLM0009769,DEN0000850,CO-29,Timely filing limit expired,375.72,2025-09-06,No,Not Appealed,,Not Appealed
+CLM0009770,DEN0000851,CO-16,Missing or incomplete claim information,164.23,2025-09-18,Yes,Approved,2025-10-11,Approved
+CLM0009782,DEN0000852,CO-96,Non-covered charge,310.50,2025-09-10,No,Not Appealed,,Not Appealed
+CLM0009801,DEN0000853,CO-197,Precertification or authorization absent,137.89,2025-10-06,Yes,Denied,2025-10-27,Denied
+CLM0009822,DEN0000854,CO-18,Duplicate claim or service,354.44,2025-10-17,Yes,Approved,2025-12-21,Approved
+CLM0009842,DEN0000855,CO-29,Timely filing limit expired,376.60,2025-09-17,No,Not Appealed,,Not Appealed
+CLM0009863,DEN0000856,CO-29,Timely filing limit expired,585.86,2025-09-16,Yes,Approved,2025-10-08,Approved
+CLM0009869,DEN0000857,CO-197,Precertification or authorization absent,649.09,2025-10-31,No,Not Appealed,,Not Appealed
+CLM0009890,DEN0000858,CO-197,Precertification or authorization absent,160.90,2025-09-20,No,Not Appealed,,Not Appealed
+CLM0009895,DEN0000859,CO-29,Timely filing limit expired,464.01,2025-10-15,No,Not Appealed,,Not Appealed
+CLM0009900,DEN0000860,CO-96,Non-covered charge,399.36,2025-09-19,No,Not Appealed,,Not Appealed
+CLM0009906,DEN0000861,CO-29,Timely filing limit expired,136.25,2025-09-03,No,Not Appealed,,Not Appealed
+CLM0009930,DEN0000862,CO-16,Missing or incomplete claim information,177.45,2025-10-10,No,Not Appealed,,Not Appealed
+CLM0009935,DEN0000863,CO-16,Missing or incomplete claim information,558.22,2025-09-25,No,Not Appealed,,Not Appealed
+CLM0009936,DEN0000864,CO-50,Service not medically necessary,143.39,2025-10-02,No,Not Appealed,,Not Appealed
+CLM0009943,DEN0000865,CO-50,Service not medically necessary,1155.99,2025-09-15,No,Not Appealed,,Not Appealed
+CLM0009946,DEN0000866,CO-96,Non-covered charge,140.85,2025-10-12,No,Not Appealed,,Not Appealed
+CLM0009957,DEN0000867,CO-16,Missing or incomplete claim information,179.81,2025-10-01,Yes,Denied,2025-11-20,Denied
+CLM0009961,DEN0000868,CO-16,Missing or incomplete claim information,405.48,2025-10-25,No,Not Appealed,,Not Appealed
+CLM0009977,DEN0000869,CO-18,Duplicate claim or service,179.70,2025-09-24,No,Not Appealed,,Not Appealed
+CLM0009978,DEN0000870,CO-197,Precertification or authorization absent,466.44,2025-10-11,No,Not Appealed,,Not Appealed
+CLM0009989,DEN0000871,CO-96,Non-covered charge,1281.63,2025-10-23,Yes,Approved,2025-11-23,Approved
+CLM0009994,DEN0000872,CO-50,Service not medically necessary,1357.38,2025-10-18,Yes,Pending,,Pending
+CLM0010000,DEN0000873,CO-29,Timely filing limit expired,222.37,2025-10-26,No,Not Appealed,,Not Appealed
+CLM0010010,DEN0000874,CO-29,Timely filing limit expired,2570.62,2025-09-25,No,Not Appealed,,Not Appealed
+CLM0010016,DEN0000875,CO-96,Non-covered charge,162.90,2025-10-25,No,Not Appealed,,Not Appealed
+CLM0010019,DEN0000876,CO-96,Non-covered charge,217.19,2025-10-06,No,Not Appealed,,Not Appealed
+CLM0010033,DEN0000877,CO-16,Missing or incomplete claim information,328.88,2025-09-07,No,Not Appealed,,Not Appealed
+CLM0010055,DEN0000878,CO-96,Non-covered charge,189.36,2025-11-06,Yes,Approved,2025-11-28,Approved
+CLM0010062,DEN0000879,CO-50,Service not medically necessary,170.73,2025-09-18,No,Not Appealed,,Not Appealed
+CLM0010069,DEN0000880,CO-96,Non-covered charge,265.09,2025-10-07,No,Not Appealed,,Not Appealed
+CLM0010096,DEN0000881,CO-197,Precertification or authorization absent,246.81,2025-09-13,No,Not Appealed,,Not Appealed
+CLM0010106,DEN0000882,CO-16,Missing or incomplete claim information,250.16,2025-11-08,No,Not Appealed,,Not Appealed
+CLM0010118,DEN0000883,CO-96,Non-covered charge,312.60,2025-10-05,No,Not Appealed,,Not Appealed
+CLM0010134,DEN0000884,CO-50,Service not medically necessary,254.26,2025-09-20,No,Not Appealed,,Not Appealed
+CLM0010145,DEN0000885,CO-29,Timely filing limit expired,302.42,2025-09-12,No,Not Appealed,,Not Appealed
+CLM0010189,DEN0000886,CO-197,Precertification or authorization absent,1302.35,2025-09-14,No,Not Appealed,,Not Appealed
+CLM0010191,DEN0000887,CO-197,Precertification or authorization absent,121.91,2025-09-24,No,Not Appealed,,Not Appealed
+CLM0010197,DEN0000888,CO-50,Service not medically necessary,334.82,2025-10-16,No,Not Appealed,,Not Appealed
+CLM0010200,DEN0000889,CO-50,Service not medically necessary,258.26,2025-11-07,No,Not Appealed,,Not Appealed
+CLM0010204,DEN0000890,CO-18,Duplicate claim or service,1719.67,2025-09-25,No,Not Appealed,,Not Appealed
+CLM0010209,DEN0000891,CO-16,Missing or incomplete claim information,195.11,2025-10-14,No,Not Appealed,,Not Appealed
+CLM0010215,DEN0000892,CO-197,Precertification or authorization absent,188.24,2025-09-10,Yes,Approved,2025-09-29,Approved
+CLM0010216,DEN0000893,CO-50,Service not medically necessary,125.06,2025-11-07,Yes,Approved,2026-01-11,Approved
+CLM0010219,DEN0000894,CO-197,Precertification or authorization absent,10809.44,2025-10-25,Yes,Approved,2026-01-12,Approved
+CLM0010233,DEN0000895,CO-16,Missing or incomplete claim information,993.17,2025-10-13,Yes,Approved,2025-11-21,Approved
+CLM0010245,DEN0000896,CO-96,Non-covered charge,340.77,2025-10-29,No,Not Appealed,,Not Appealed
+CLM0010267,DEN0000897,CO-16,Missing or incomplete claim information,4113.94,2025-11-03,No,Not Appealed,,Not Appealed
+CLM0010271,DEN0000898,CO-197,Precertification or authorization absent,163.27,2025-09-26,No,Not Appealed,,Not Appealed
+CLM0010284,DEN0000899,CO-50,Service not medically necessary,178.84,2025-11-15,No,Not Appealed,,Not Appealed
+CLM0010319,DEN0000900,CO-50,Service not medically necessary,291.61,2025-11-26,No,Not Appealed,,Not Appealed
+CLM0010320,DEN0000901,CO-16,Missing or incomplete claim information,142.64,2025-10-02,No,Not Appealed,,Not Appealed
+CLM0010332,DEN0000902,CO-50,Service not medically necessary,1387.88,2025-09-26,Yes,Approved,2025-11-09,Approved
+CLM0010341,DEN0000903,CO-96,Non-covered charge,1519.40,2025-10-23,Yes,Denied,2025-12-30,Denied
+CLM0010345,DEN0000904,CO-18,Duplicate claim or service,531.10,2025-11-10,No,Not Appealed,,Not Appealed
+CLM0010353,DEN0000905,CO-16,Missing or incomplete claim information,1234.30,2025-10-22,No,Not Appealed,,Not Appealed
+CLM0010368,DEN0000906,CO-16,Missing or incomplete claim information,515.48,2025-10-03,No,Not Appealed,,Not Appealed
+CLM0010371,DEN0000907,CO-16,Missing or incomplete claim information,109.55,2025-10-29,Yes,Denied,2025-11-15,Denied
+CLM0010389,DEN0000908,CO-29,Timely filing limit expired,238.18,2025-10-18,No,Not Appealed,,Not Appealed
+CLM0010401,DEN0000909,CO-50,Service not medically necessary,245.72,2025-11-21,Yes,Denied,2026-01-29,Denied
+CLM0010407,DEN0000910,CO-29,Timely filing limit expired,701.47,2025-11-01,No,Not Appealed,,Not Appealed
+CLM0010413,DEN0000911,CO-96,Non-covered charge,4110.05,2025-11-29,No,Not Appealed,,Not Appealed
+CLM0010448,DEN0000912,CO-18,Duplicate claim or service,294.19,2025-11-27,No,Not Appealed,,Not Appealed
+CLM0010449,DEN0000913,CO-29,Timely filing limit expired,1737.18,2025-10-18,No,Not Appealed,,Not Appealed
+CLM0010462,DEN0000914,CO-16,Missing or incomplete claim information,165.53,2025-11-10,No,Not Appealed,,Not Appealed
+CLM0010486,DEN0000915,CO-197,Precertification or authorization absent,923.44,2025-10-07,Yes,Pending,,Pending
+CLM0010488,DEN0000916,CO-50,Service not medically necessary,2154.46,2025-11-13,No,Not Appealed,,Not Appealed
+CLM0010513,DEN0000917,CO-29,Timely filing limit expired,205.99,2025-11-25,No,Not Appealed,,Not Appealed
+CLM0010544,DEN0000918,CO-16,Missing or incomplete claim information,202.12,2025-11-09,Yes,Pending,,Pending
+CLM0010545,DEN0000919,CO-16,Missing or incomplete claim information,164.38,2025-11-13,Yes,Approved,2026-01-06,Approved
+CLM0010595,DEN0000920,CO-18,Duplicate claim or service,494.94,2025-11-15,No,Not Appealed,,Not Appealed
+CLM0010622,DEN0000921,CO-16,Missing or incomplete claim information,201.37,2025-10-29,No,Not Appealed,,Not Appealed
+CLM0010637,DEN0000922,CO-29,Timely filing limit expired,157.28,2025-11-10,No,Not Appealed,,Not Appealed
+CLM0010645,DEN0000923,CO-16,Missing or incomplete claim information,2119.06,2025-10-23,No,Not Appealed,,Not Appealed
+CLM0010661,DEN0000924,CO-197,Precertification or authorization absent,230.48,2025-11-15,No,Not Appealed,,Not Appealed
+CLM0010684,DEN0000925,CO-18,Duplicate claim or service,109.98,2025-10-16,Yes,Denied,2025-11-25,Denied
+CLM0010708,DEN0000926,CO-197,Precertification or authorization absent,238.93,2025-11-21,No,Not Appealed,,Not Appealed
+CLM0010717,DEN0000927,CO-16,Missing or incomplete claim information,1631.82,2025-11-18,No,Not Appealed,,Not Appealed
+CLM0010739,DEN0000928,CO-96,Non-covered charge,165.77,2025-11-27,No,Not Appealed,,Not Appealed
+CLM0010753,DEN0000929,CO-96,Non-covered charge,136.86,2025-11-14,No,Not Appealed,,Not Appealed
+CLM0010771,DEN0000930,CO-96,Non-covered charge,352.85,2025-12-09,No,Not Appealed,,Not Appealed
+CLM0010793,DEN0000931,CO-18,Duplicate claim or service,212.92,2025-11-01,No,Not Appealed,,Not Appealed
+CLM0010808,DEN0000932,CO-18,Duplicate claim or service,230.47,2025-11-30,No,Not Appealed,,Not Appealed
+CLM0010813,DEN0000933,CO-16,Missing or incomplete claim information,1556.57,2025-11-20,No,Not Appealed,,Not Appealed
+CLM0010829,DEN0000934,CO-18,Duplicate claim or service,104.02,2025-10-23,No,Not Appealed,,Not Appealed
+CLM0010860,DEN0000935,CO-16,Missing or incomplete claim information,251.79,2025-10-31,No,Not Appealed,,Not Appealed
+CLM0010864,DEN0000936,CO-29,Timely filing limit expired,338.23,2025-11-05,No,Not Appealed,,Not Appealed
+CLM0010867,DEN0000937,CO-16,Missing or incomplete claim information,379.53,2025-12-09,No,Not Appealed,,Not Appealed
+CLM0010873,DEN0000938,CO-18,Duplicate claim or service,163.72,2025-11-07,Yes,Denied,2026-01-26,Denied
+CLM0010886,DEN0000939,CO-197,Precertification or authorization absent,139.73,2025-11-28,No,Not Appealed,,Not Appealed
+CLM0010887,DEN0000940,CO-50,Service not medically necessary,163.56,2025-11-13,No,Not Appealed,,Not Appealed
+CLM0010899,DEN0000941,CO-18,Duplicate claim or service,315.79,2025-12-21,Yes,Approved,2026-02-02,Approved
+CLM0010900,DEN0000942,CO-18,Duplicate claim or service,244.22,2025-12-01,No,Not Appealed,,Not Appealed
+CLM0010911,DEN0000943,CO-197,Precertification or authorization absent,138.83,2025-11-29,No,Not Appealed,,Not Appealed
+CLM0010912,DEN0000944,CO-16,Missing or incomplete claim information,519.73,2025-11-11,Yes,Pending,,Pending
+CLM0010918,DEN0000945,CO-96,Non-covered charge,1214.07,2025-11-17,Yes,Approved,2025-12-11,Approved
+CLM0010922,DEN0000946,CO-16,Missing or incomplete claim information,2079.92,2025-12-29,No,Not Appealed,,Not Appealed
+CLM0010933,DEN0000947,CO-50,Service not medically necessary,1377.34,2025-11-14,Yes,Approved,2025-12-08,Approved
+CLM0010947,DEN0000948,CO-16,Missing or incomplete claim information,298.95,2025-10-23,Yes,Pending,,Pending
+CLM0010954,DEN0000949,CO-50,Service not medically necessary,1983.68,2025-11-16,No,Not Appealed,,Not Appealed
+CLM0010973,DEN0000950,CO-96,Non-covered charge,1226.45,2025-12-01,No,Not Appealed,,Not Appealed
+CLM0010978,DEN0000951,CO-96,Non-covered charge,151.01,2025-12-15,No,Not Appealed,,Not Appealed
+CLM0011011,DEN0000952,CO-197,Precertification or authorization absent,242.53,2025-11-19,No,Not Appealed,,Not Appealed
+CLM0011016,DEN0000953,CO-29,Timely filing limit expired,164.99,2025-12-02,No,Not Appealed,,Not Appealed
+CLM0011025,DEN0000954,CO-197,Precertification or authorization absent,458.00,2025-12-12,Yes,Pending,,Pending
+CLM0011040,DEN0000955,CO-96,Non-covered charge,534.58,2025-12-06,Yes,Approved,2025-12-23,Approved
+CLM0011041,DEN0000956,CO-50,Service not medically necessary,138.67,2025-12-13,No,Not Appealed,,Not Appealed
+CLM0011064,DEN0000957,CO-197,Precertification or authorization absent,317.59,2025-12-18,No,Not Appealed,,Not Appealed
+CLM0011108,DEN0000958,CO-18,Duplicate claim or service,309.44,2025-12-23,No,Not Appealed,,Not Appealed
+CLM0011109,DEN0000959,CO-18,Duplicate claim or service,127.54,2025-12-28,No,Not Appealed,,Not Appealed
+CLM0011120,DEN0000960,CO-18,Duplicate claim or service,158.21,2025-12-10,Yes,Denied,2026-02-28,Denied
+CLM0011141,DEN0000961,CO-50,Service not medically necessary,1531.90,2025-12-21,No,Not Appealed,,Not Appealed
+CLM0011159,DEN0000962,CO-18,Duplicate claim or service,1896.85,2025-11-25,No,Not Appealed,,Not Appealed
+CLM0011164,DEN0000963,CO-197,Precertification or authorization absent,790.28,2025-11-18,No,Not Appealed,,Not Appealed
+CLM0011188,DEN0000964,CO-50,Service not medically necessary,252.19,2025-12-13,No,Not Appealed,,Not Appealed
+CLM0011190,DEN0000965,CO-50,Service not medically necessary,195.29,2025-12-11,No,Not Appealed,,Not Appealed
+CLM0011191,DEN0000966,CO-29,Timely filing limit expired,145.55,2025-11-13,No,Not Appealed,,Not Appealed
+CLM0011197,DEN0000967,CO-50,Service not medically necessary,178.23,2025-12-18,Yes,Approved,2026-02-13,Approved
+CLM0011198,DEN0000968,CO-50,Service not medically necessary,418.21,2025-11-29,Yes,Denied,2025-12-21,Denied
+CLM0011206,DEN0000969,CO-197,Precertification or authorization absent,163.97,2025-11-25,No,Not Appealed,,Not Appealed
+CLM0011214,DEN0000970,CO-29,Timely filing limit expired,171.82,2025-12-01,Yes,Approved,2025-12-22,Approved
+CLM0011223,DEN0000971,CO-96,Non-covered charge,130.06,2026-01-06,No,Not Appealed,,Not Appealed
+CLM0011227,DEN0000972,CO-197,Precertification or authorization absent,401.82,2025-12-12,No,Not Appealed,,Not Appealed
+CLM0011232,DEN0000973,CO-197,Precertification or authorization absent,133.73,2025-12-01,No,Not Appealed,,Not Appealed
+CLM0011244,DEN0000974,CO-29,Timely filing limit expired,3478.55,2026-01-02,No,Not Appealed,,Not Appealed
+CLM0011247,DEN0000975,CO-197,Precertification or authorization absent,158.55,2025-11-28,No,Not Appealed,,Not Appealed
+CLM0011249,DEN0000976,CO-16,Missing or incomplete claim information,170.42,2025-12-18,Yes,Approved,2026-02-15,Approved
+CLM0011251,DEN0000977,CO-16,Missing or incomplete claim information,2055.98,2025-12-23,No,Not Appealed,,Not Appealed
+CLM0011254,DEN0000978,CO-197,Precertification or authorization absent,1081.73,2025-12-21,No,Not Appealed,,Not Appealed
+CLM0011258,DEN0000979,CO-50,Service not medically necessary,364.08,2025-12-21,No,Not Appealed,,Not Appealed
+CLM0011282,DEN0000980,CO-18,Duplicate claim or service,209.93,2025-12-03,No,Not Appealed,,Not Appealed
+CLM0011291,DEN0000981,CO-197,Precertification or authorization absent,222.07,2025-12-11,No,Not Appealed,,Not Appealed
+CLM0011308,DEN0000982,CO-29,Timely filing limit expired,181.38,2026-01-09,No,Not Appealed,,Not Appealed
+CLM0011330,DEN0000983,CO-29,Timely filing limit expired,285.02,2025-12-07,No,Not Appealed,,Not Appealed
+CLM0011336,DEN0000984,CO-29,Timely filing limit expired,549.83,2025-12-01,Yes,Approved,2025-12-18,Approved
+CLM0011352,DEN0000985,CO-197,Precertification or authorization absent,175.55,2025-11-25,Yes,Approved,2025-12-11,Approved
+CLM0011353,DEN0000986,CO-16,Missing or incomplete claim information,1553.08,2025-12-26,No,Not Appealed,,Not Appealed
+CLM0011354,DEN0000987,CO-197,Precertification or authorization absent,225.61,2025-12-11,No,Not Appealed,,Not Appealed
+CLM0011370,DEN0000988,CO-18,Duplicate claim or service,2151.16,2026-01-09,Yes,Denied,2026-03-30,Denied
+CLM0011371,DEN0000989,CO-16,Missing or incomplete claim information,396.20,2025-12-22,Yes,Approved,2026-03-10,Approved
+CLM0011382,DEN0000990,CO-96,Non-covered charge,186.63,2026-01-02,No,Not Appealed,,Not Appealed
+CLM0011386,DEN0000991,CO-16,Missing or incomplete claim information,163.14,2026-01-07,No,Not Appealed,,Not Appealed
+CLM0011399,DEN0000992,CO-197,Precertification or authorization absent,711.88,2025-12-02,Yes,Pending,,Pending
+CLM0011404,DEN0000993,CO-50,Service not medically necessary,619.70,2026-01-05,No,Not Appealed,,Not Appealed
+CLM0011407,DEN0000994,CO-29,Timely filing limit expired,522.98,2025-12-06,No,Not Appealed,,Not Appealed
+CLM0011438,DEN0000995,CO-197,Precertification or authorization absent,194.10,2025-12-13,Yes,Denied,2026-01-10,Denied
+CLM0011440,DEN0000996,CO-96,Non-covered charge,155.02,2026-01-21,No,Not Appealed,,Not Appealed
+CLM0011448,DEN0000997,CO-96,Non-covered charge,5471.18,2025-12-10,No,Not Appealed,,Not Appealed
+CLM0011451,DEN0000998,CO-18,Duplicate claim or service,225.21,2026-01-24,No,Not Appealed,,Not Appealed
+CLM0011463,DEN0000999,CO-18,Duplicate claim or service,1210.88,2026-01-02,No,Not Appealed,,Not Appealed
+CLM0011467,DEN0001000,CO-29,Timely filing limit expired,166.77,2026-01-11,Yes,Denied,2026-03-26,Denied
+CLM0011475,DEN0001001,CO-96,Non-covered charge,221.72,2025-12-28,Yes,Approved,2026-03-09,Approved
+CLM0011494,DEN0001002,CO-50,Service not medically necessary,183.46,2025-12-31,No,Not Appealed,,Not Appealed
+CLM0011510,DEN0001003,CO-50,Service not medically necessary,1762.99,2026-01-06,Yes,Denied,2026-01-24,Denied
+CLM0011511,DEN0001004,CO-29,Timely filing limit expired,165.60,2025-12-31,No,Not Appealed,,Not Appealed
+CLM0011515,DEN0001005,CO-29,Timely filing limit expired,175.77,2026-01-14,Yes,Denied,2026-02-25,Denied
+CLM0011521,DEN0001006,CO-50,Service not medically necessary,258.34,2025-12-09,No,Not Appealed,,Not Appealed
+CLM0011523,DEN0001007,CO-29,Timely filing limit expired,315.19,2025-12-12,Yes,Approved,2026-01-15,Approved
+CLM0011527,DEN0001008,CO-197,Precertification or authorization absent,1183.97,2025-11-25,Yes,Approved,2025-12-20,Approved
+CLM0011532,DEN0001009,CO-197,Precertification or authorization absent,319.02,2026-01-02,Yes,Denied,2026-02-02,Denied
+CLM0011542,DEN0001010,CO-18,Duplicate claim or service,235.00,2026-01-13,Yes,Denied,2026-03-23,Denied
+CLM0011564,DEN0001011,CO-18,Duplicate claim or service,177.44,2025-12-23,Yes,Approved,2026-03-02,Approved
+CLM0011565,DEN0001012,CO-96,Non-covered charge,412.99,2025-12-27,Yes,Denied,2026-01-23,Denied
+CLM0011575,DEN0001013,CO-197,Precertification or authorization absent,189.58,2025-12-29,No,Not Appealed,,Not Appealed
+CLM0011603,DEN0001014,CO-96,Non-covered charge,15289.28,2026-01-04,No,Not Appealed,,Not Appealed
+CLM0011615,DEN0001015,CO-50,Service not medically necessary,185.92,2025-12-21,Yes,Denied,2026-02-28,Denied
+CLM0011641,DEN0001016,CO-16,Missing or incomplete claim information,1847.85,2025-12-20,No,Not Appealed,,Not Appealed
+CLM0011654,DEN0001017,CO-16,Missing or incomplete claim information,742.69,2025-12-20,No,Not Appealed,,Not Appealed
+CLM0011677,DEN0001018,CO-50,Service not medically necessary,976.35,2026-02-05,Yes,Approved,2026-04-15,Approved
+CLM0011682,DEN0001019,CO-197,Precertification or authorization absent,415.78,2026-02-02,Yes,Pending,,Pending
+CLM0011703,DEN0001020,CO-16,Missing or incomplete claim information,248.95,2025-12-30,No,Not Appealed,,Not Appealed
+CLM0011711,DEN0001021,CO-29,Timely filing limit expired,370.76,2026-01-11,Yes,Pending,,Pending
+CLM0011717,DEN0001022,CO-16,Missing or incomplete claim information,397.24,2026-01-09,Yes,Pending,,Pending
+CLM0011736,DEN0001023,CO-16,Missing or incomplete claim information,2077.00,2026-02-04,No,Not Appealed,,Not Appealed
+CLM0011742,DEN0001024,CO-96,Non-covered charge,234.18,2026-01-21,Yes,Pending,,Pending
+CLM0011753,DEN0001025,CO-50,Service not medically necessary,167.08,2025-12-25,Yes,Denied,2026-01-25,Denied
+CLM0011755,DEN0001026,CO-29,Timely filing limit expired,1858.94,2026-01-27,No,Not Appealed,,Not Appealed
+CLM0011768,DEN0001027,CO-96,Non-covered charge,109.82,2026-01-10,No,Not Appealed,,Not Appealed
+CLM0011786,DEN0001028,CO-197,Precertification or authorization absent,197.40,2025-12-31,No,Not Appealed,,Not Appealed
+CLM0011787,DEN0001029,CO-29,Timely filing limit expired,176.94,2025-12-10,No,Not Appealed,,Not Appealed
+CLM0011794,DEN0001030,CO-96,Non-covered charge,249.02,2026-01-19,No,Not Appealed,,Not Appealed
+CLM0011802,DEN0001031,CO-197,Precertification or authorization absent,544.28,2025-12-25,No,Not Appealed,,Not Appealed
+CLM0011815,DEN0001032,CO-29,Timely filing limit expired,258.22,2025-12-20,Yes,Denied,2026-03-04,Denied
+CLM0011834,DEN0001033,CO-16,Missing or incomplete claim information,156.49,2026-01-05,No,Not Appealed,,Not Appealed
+CLM0011843,DEN0001034,CO-18,Duplicate claim or service,254.12,2026-01-16,Yes,Approved,2026-03-09,Approved
+CLM0011872,DEN0001035,CO-18,Duplicate claim or service,261.14,2026-01-11,Yes,Denied,2026-03-16,Denied
+CLM0011892,DEN0001036,CO-197,Precertification or authorization absent,222.96,2025-12-30,No,Not Appealed,,Not Appealed
+CLM0011896,DEN0001037,CO-197,Precertification or authorization absent,188.68,2025-12-28,Yes,Approved,2026-01-26,Approved
+CLM0011921,DEN0001038,CO-96,Non-covered charge,132.49,2025-12-26,No,Not Appealed,,Not Appealed
+CLM0011932,DEN0001039,CO-29,Timely filing limit expired,322.30,2025-12-31,No,Not Appealed,,Not Appealed
+CLM0011960,DEN0001040,CO-16,Missing or incomplete claim information,265.47,2025-12-27,No,Not Appealed,,Not Appealed
+CLM0011971,DEN0001041,CO-18,Duplicate claim or service,488.45,2025-12-18,Yes,Approved,2026-01-13,Approved
+CLM0011988,DEN0001042,CO-197,Precertification or authorization absent,6118.62,2026-01-07,No,Not Appealed,,Not Appealed
+CLM0011993,DEN0001043,CO-197,Precertification or authorization absent,180.27,2026-01-26,No,Not Appealed,,Not Appealed
+CLM0012023,DEN0001044,CO-16,Missing or incomplete claim information,182.54,2026-02-07,No,Not Appealed,,Not Appealed
+CLM0012030,DEN0001045,CO-18,Duplicate claim or service,201.16,2026-02-01,Yes,Pending,,Pending
+CLM0012039,DEN0001046,CO-29,Timely filing limit expired,186.07,2026-01-25,No,Not Appealed,,Not Appealed
+CLM0012060,DEN0001047,CO-16,Missing or incomplete claim information,480.82,2025-12-26,No,Not Appealed,,Not Appealed
+CLM0012061,DEN0001048,CO-16,Missing or incomplete claim information,2406.17,2026-01-07,No,Not Appealed,,Not Appealed
+CLM0012062,DEN0001049,CO-18,Duplicate claim or service,1922.90,2026-02-18,Yes,Approved,2026-05-04,Approved
+CLM0012065,DEN0001050,CO-29,Timely filing limit expired,345.12,2026-01-14,No,Not Appealed,,Not Appealed
+CLM0012069,DEN0001051,CO-16,Missing or incomplete claim information,339.95,2026-01-28,No,Not Appealed,,Not Appealed
+CLM0012077,DEN0001052,CO-18,Duplicate claim or service,216.90,2026-02-27,No,Not Appealed,,Not Appealed
+CLM0012080,DEN0001053,CO-50,Service not medically necessary,1223.95,2026-01-21,Yes,Denied,2026-04-08,Denied
+CLM0012084,DEN0001054,CO-197,Precertification or authorization absent,245.32,2026-02-05,Yes,Denied,2026-03-05,Denied
+CLM0012113,DEN0001055,CO-16,Missing or incomplete claim information,326.49,2026-01-10,No,Not Appealed,,Not Appealed
+CLM0012115,DEN0001056,CO-29,Timely filing limit expired,200.29,2026-01-20,Yes,Denied,2026-02-14,Denied
+CLM0012117,DEN0001057,CO-18,Duplicate claim or service,211.96,2026-01-13,No,Not Appealed,,Not Appealed
+CLM0012135,DEN0001058,CO-16,Missing or incomplete claim information,327.01,2026-02-16,Yes,Denied,2026-04-03,Denied
+CLM0012145,DEN0001059,CO-96,Non-covered charge,175.22,2026-01-05,Yes,Pending,,Pending
+CLM0012150,DEN0001060,CO-50,Service not medically necessary,419.41,2026-01-20,No,Not Appealed,,Not Appealed
+CLM0012173,DEN0001061,CO-29,Timely filing limit expired,11636.96,2026-01-02,No,Not Appealed,,Not Appealed
+CLM0012194,DEN0001062,CO-18,Duplicate claim or service,2139.52,2026-01-08,Yes,Denied,2026-02-04,Denied
+CLM0012197,DEN0001063,CO-29,Timely filing limit expired,201.69,2026-02-08,Yes,Denied,2026-03-28,Denied
+CLM0012210,DEN0001064,CO-96,Non-covered charge,217.07,2026-01-21,Yes,Denied,2026-02-28,Denied
+CLM0012220,DEN0001065,CO-18,Duplicate claim or service,330.30,2026-02-06,No,Not Appealed,,Not Appealed
+CLM0012235,DEN0001066,CO-18,Duplicate claim or service,320.86,2026-01-18,Yes,Denied,2026-04-03,Denied
+CLM0012260,DEN0001067,CO-50,Service not medically necessary,286.35,2026-02-27,No,Not Appealed,,Not Appealed
+CLM0012265,DEN0001068,CO-96,Non-covered charge,240.67,2026-02-10,No,Not Appealed,,Not Appealed
+CLM0012279,DEN0001069,CO-18,Duplicate claim or service,125.08,2026-01-30,No,Not Appealed,,Not Appealed
+CLM0012309,DEN0001070,CO-29,Timely filing limit expired,1461.58,2026-01-18,No,Not Appealed,,Not Appealed
+CLM0012332,DEN0001071,CO-18,Duplicate claim or service,523.86,2026-02-23,Yes,Denied,2026-04-08,Denied
+CLM0012348,DEN0001072,CO-16,Missing or incomplete claim information,201.29,2026-02-13,No,Not Appealed,,Not Appealed
+CLM0012357,DEN0001073,CO-29,Timely filing limit expired,239.70,2026-02-14,No,Not Appealed,,Not Appealed
+CLM0012370,DEN0001074,CO-18,Duplicate claim or service,268.97,2026-01-26,Yes,Denied,2026-03-06,Denied
+CLM0012374,DEN0001075,CO-18,Duplicate claim or service,327.69,2026-01-26,Yes,Denied,2026-03-17,Denied
+CLM0012377,DEN0001076,CO-18,Duplicate claim or service,192.00,2026-02-16,No,Not Appealed,,Not Appealed
+CLM0012425,DEN0001077,CO-16,Missing or incomplete claim information,2007.96,2026-02-13,Yes,Approved,2026-03-06,Approved
+CLM0012441,DEN0001078,CO-18,Duplicate claim or service,182.20,2026-01-19,No,Not Appealed,,Not Appealed

@@ -1,0 +1,7 @@
+DenialReasonKey,DenialReasonCode,DenialReasonDescription
+"1","CO-96","Non-covered charge"
+"2","CO-50","Service not medically necessary"
+"3","CO-18","Duplicate claim or service"
+"4","CO-197","Precertification or authorization absent"
+"5","CO-16","Missing or incomplete claim information"
+"6","CO-29","Timely filing limit expired"
