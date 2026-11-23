@@ -1,6 +1,6 @@
 # Healthcare Claims & Clinical Data | End-to-End SQL Server ETL and Data Warehouse
 
-> **Project status (November 21, 2026):** SQL staging → ODS → dimensional warehouse ETL, outbound BCP export workflow, and a multi-page Power BI healthcare dashboard have been developed. SQL-to-Power BI reconciliation and dashboard debugging have been performed for selected KPIs and filters. Repository publication, comprehensive regression testing, and production hardening are separate from the completed development work.
+> **Project status (November 22, 2026):** The SQL staging → ODS → dimensional warehouse ETL, BCP export workflow, and multi-page Power BI healthcare dashboard have been developed and published as a portfolio project. The Patient Detail model was subsequently corrected by removing obsolete `Dim_Patient_Bridge` and `Diagnosis_Detail` calculated tables and the problematic primary-diagnosis-key relationship. SQL-to-Power BI checks confirm patient history across 2024 and 2025 for tested cases. Full regression testing and production hardening remain separate tasks.
 
 ## Project overview
 
@@ -597,8 +597,11 @@ project-root/
 └── validation/
     ├── Overview Dashboard Data Validation.sql
     ├── Patients Dashboard Data Validation.sql
+    ├── Patients Details Validation.sql
     ├── Patients Dashboard Data Validation1.png
     └── Patients Dashboard Data Validation2.png
+    └── Patients Detail Data Validation1.png
+    └── Patients Detail Data Validation2.png
 ```
 
 ### Folder responsibilities
@@ -891,7 +894,7 @@ This project reinforced several lessons that apply to real-world analytics engin
 ## Project maintenance
 
 **Focus:** SQL Server ETL, healthcare data modeling, dimensional warehousing, data quality, and business intelligence  
-**Last documented milestone:** November 21, 2026 — diagnosis detail reporting and primary-diagnosis slicer behavior validated interactively; comprehensive README updated.
+**Last documented milestone:** November 22, 2026 — final Power BI Patient Detail model corrected; 2024/2025 patient histories reconciled against SQL Server.
 
 *This README is a living document. Update counts, screenshots, source references, and implementation notes as the committed code and reporting deliverables evolve.*
 
@@ -914,7 +917,7 @@ The principal design choices were a common calendar-year filter, shared clinical
 |---|---|---|
 | Executive Overview | Encounters, patients, claims, billed/paid values, annual trends, utilization | 2024/2025 comparison and KPI reconciliation |
 | Patients & Utilization | Patient population, visits, returning patients, utilization by segment | Encounter count and distinct patient count must not be conflated |
-| Patient Detail | Patient-level drillthrough and encounter history | Drillthrough context must be tested independently |
+| Patient Detail | Patient-level drillthrough with encounter, primary/secondary diagnosis, procedure, lab, medication, and claims history | Final model uses encounter-based filtering; obsolete bridge/detail tables and problematic primary-diagnosis-key relationship removed |
 | Clinical Diagnoses | Primary-diagnosis trends, visit-type analysis, encounter-level diagnosis detail | Special solution to preserve secondary diagnoses |
 | Medications | Medication utilization and clinical detail | Respect medication-order grain |
 | Procedures | Procedure mix and utilization | Procedure slicer cross-filter behavior was adjusted |
@@ -951,7 +954,7 @@ For the full-year unfiltered comparison, 2024 encounters = **5,500** and 2025 en
 
 ### 14.5 Encounter vs diagnosis grain: the central model challenge
 
-An encounter has one primary diagnosis for some reporting uses but can have **multiple diagnoses** overall. `Dim_Encounters[diagnosis_code]` identifies a single encounter diagnosis, while `Dim_Diagnoses` contains primary and secondary records. The existing claims model uses an active relationship between `Fact_Claims[PrimaryDiagnosisKey]` and `Dim_Diagnoses[DiagnosisKey]` for claim-level primary-diagnosis reporting. It is therefore unsafe to assume that selecting diagnosis fields from arbitrary tables will automatically produce every diagnosis per encounter.
+An encounter has one primary diagnosis for some reporting uses but can have **multiple diagnoses** overall. `Dim_Encounters[diagnosis_code]` identifies a single encounter diagnosis, while `Dim_Diagnoses` contains primary and secondary records. An earlier claims model used a relationship between `Fact_Claims[PrimaryDiagnosisKey]` and `Dim_Diagnoses[DiagnosisKey]` for claim-level primary-diagnosis reporting. **That problematic primary-diagnosis-key relationship was subsequently removed from the final Power BI model** (see Section 21). It is therefore unsafe to assume that selecting diagnosis fields from arbitrary tables will automatically produce every diagnosis per encounter.
 
 The original dashboard primary-diagnosis slicer used `Dim_Diagnoses[diagnosis_description]`, which followed the claims relationship and did not consistently filter all encounter-based visuals. An attempt to introduce an additional active encounter/diagnosis relationship raised **ambiguous filter path** concerns. The solution for the main dashboard was to create a primary-diagnosis description on the encounter table:
 
@@ -973,7 +976,7 @@ This was used as `Dim_Encounters[Slicer Primary Diagnosis]` for the general enco
 
 When fields from `Dim_Encounters` and `Dim_Diagnoses` were combined without a suitable active filtering path, Power BI displayed unrelated encounter ID combinations, resembling an infinite loop. This was a **Cartesian-product / cross-join-like visual result**, not a DAX loop. Using only `Dim_Diagnoses` fields displayed the underlying primary and secondary rows correctly; adding encounter attributes exposed the relationship/filtering problem again. A measure with `REMOVEFILTERS(Fact_Claims)` could count two diagnoses for some encounters, but could not reliably restore rows already excluded by the visual's grouping/filter path. A `CONCATENATEX` measure was also unsuitable for a requirement of **one diagnosis per detail row**.
 
-The final development solution was a **dedicated calculated diagnosis-detail table**, with the diagnosis row as its base grain and encounter/patient/provider attributes looked up by business keys:
+An **intermediate development solution (later removed)** was a dedicated calculated diagnosis-detail table, with the diagnosis row as its base grain and encounter/patient/provider attributes looked up by business keys:
 
 ```dax
 Diagnosis_Detail =
@@ -1033,7 +1036,7 @@ LOOKUPVALUE(
 )
 ```
 
-Use `Diagnosis_Detail[Slicer Primary Diagnosis]` for the diagnosis detail page. Because this label repeats on every diagnosis row in the encounter, filtering by the encounter's primary diagnosis retains its secondary diagnoses. The existing `Dim_Encounters` primary-diagnosis slicer can remain for the other pages. **Scope warning:** The detail-table slicer does not automatically filter unrelated report tables; verify all Diagnosis page visuals and slicer interactions. The calculated table materializes on model refresh, not at every visual interaction. Lookups assume unique keys or identical result values; confirm uniqueness in SQL.
+During that intermediate design, `Diagnosis_Detail[Slicer Primary Diagnosis]` was used for the diagnosis detail page; **do not recreate this removed table in the final model**. Because this label repeats on every diagnosis row in the encounter, filtering by the encounter's primary diagnosis retains its secondary diagnoses. The existing `Dim_Encounters` primary-diagnosis slicer can remain for the other pages. **Historical scope warning (superseded design):** The detail-table slicer did not automatically filter unrelated report tables; verify all Diagnosis page visuals and slicer interactions. The calculated table materializes on model refresh, not at every visual interaction. Lookups assume unique keys or identical result values; confirm uniqueness in SQL.
 
 ### 14.7 Procedure filtering and ambiguous paths
 
@@ -1123,8 +1126,8 @@ The exact DAX definitions for all KPIs should be exported to `powerbi/dax/` or c
 | Export | Data file produced without headers | BCP output behavior | Header generation and output validation |
 | Power BI | Some diagnosis selections did not filter encounters | Claim-primary-diagnosis path did not represent encounter filtering | Encounter-level primary diagnosis slicer |
 | Power BI | Activating another relationship caused ambiguity | Multiple active filter routes | Preserve intended model paths; avoid indiscriminate Both |
-| Power BI | Detail table multiplied encounter IDs | Unrelated encounter/diagnosis fields in visual | Diagnosis-grain reporting table |
-| Power BI | Only primary diagnoses remained after adding encounter attributes | Relationship/filtering path excluded secondary rows | `Diagnosis_Detail` calculated table and dedicated slicer |
+| Power BI | Detail table multiplied encounter IDs | Unrelated encounter/diagnosis fields in visual | Intermediate diagnosis-grain table, later removed in final model |
+| Power BI | Only primary diagnoses remained after adding encounter attributes | Relationship/filtering path excluded secondary rows | Intermediate `Diagnosis_Detail` workaround; final fix removed it and the problematic primary-diagnosis-key relationship |
 | Power BI | `LOOKUPVALUE` error for NPI | Matched NPI to provider ID; extra comma | Match provider IDs and correct syntax |
 | Power BI | PY encounter KPI blank | `Dim_Date` not marked as date table | Mark date table and use date-typed key |
 
@@ -1155,8 +1158,8 @@ The README is the historical narrative; the SQL and PBIX files are the implement
 **Known or documented limitations**
 
 - **SCD2 history:** Fact foreign keys resolved against active patient/provider versions during initial historical loading; true event-time historical attribution needs an explicit redesign.
-- **Calculated diagnosis detail:** Refresh-time materialization adds model size and can duplicate encounter attributes; consider a SQL view/warehouse table or a more deliberate relationship design for production.
-- **Page-specific slicers:** The diagnosis detail slicer is intentionally table-specific; verify interactions with other clinical charts and with page/report-level filters.
+- **Historical calculated diagnosis detail:** `Diagnosis_Detail` was removed from the final Power BI model; its refresh-time materialization and duplicated attributes are no longer current-model limitations.
+- **Page-specific slicers:** The former `Diagnosis_Detail` slicer is no longer part of the final model. Verify final encounter-based slicer interactions with other clinical charts and page/report-level filters.
 - **BCP / `xp_cmdshell`:** Local export technique is not a blanket production deployment recommendation; prefer approved orchestration and least-privilege execution.
 - **Financial reconciliation:** Rounded checkpoints are not a replacement for exact claim-level accounting controls, late-arriving adjustments and status definitions.
 - **Synthetic provenance:** Original dataset version, generated 2024–2025 changes, row-generation logic, and redistribution terms should be recorded from source scripts before publication.
@@ -1181,13 +1184,13 @@ This project began as an investigation of nine related healthcare source dataset
 
 **Skills demonstrated:** SQL Server/T-SQL, relational profiling, ETL orchestration, data quality and exception handling, dimensional modeling, SCD2, incremental/upsert design, SQL reconciliation, BCP export, Power BI relationships and filter context, DAX time intelligence, clinical and revenue-cycle KPI design, and iterative troubleshooting.
 
-**Documentation updated:** November 21, 2026 (latest model troubleshooting added). The README intentionally records both completed development milestones and remaining publication/production-hardening tasks.
+**Documentation updated:** November 22, 2026 (final patient drillthrough model correction and SQL validation added). The README intentionally records both completed development milestones and remaining publication/production-hardening tasks.
 
 ---
 
 ## 20. Latest model troubleshooting: SCD Type 2, diagnosis history and patient drillthrough (November 21, 2026)
 
-This section documents the final troubleshooting session **after** the initial diagnosis-detail implementation described in Section 14. It records the problem, tests, the relationship adjustment, and the observed result without assuming the model has been exhaustively regression-tested.
+This section documents an **earlier troubleshooting session, subsequently superseded by the final model simplification in Section 21**, after the initial diagnosis-detail implementation described in Section 14. It records the problem, tests, the relationship adjustment, and the observed result without assuming the model has been exhaustively regression-tested.
 
 ### 20.1 SCD Type 2 introduced repeated business IDs
 
@@ -1234,11 +1237,66 @@ was changed from **Active** to **Inactive**. Immediately after this **first rela
 
 This case shows that **active relationship** does not mean **usable filter path for every visual**. Power BI visuals can fail when they combine tables connected through separate branches that do not provide the required filtering or row association. Before introducing more DAX or more tables, inspect relationship cardinality, filter direction, active status, and whether the intended entity grain is patient, encounter, diagnosis, or claim.
 
-The final documented intervention was deliberately minimal: **deactivate the competing direct patient-bridge-to-diagnosis-detail relationship and retest**. This is distinct from the earlier diagnosis-page fix, which used `Diagnosis_Detail` to preserve all diagnosis rows per encounter.
+The intervention documented at that stage was to **deactivate the competing direct patient-bridge-to-diagnosis-detail relationship and retest**. **This was not the final model design:** both calculated tables and the problematic primary-diagnosis-key relationship were later removed (Section 21). This is distinct from the earlier diagnosis-page fix, which used `Diagnosis_Detail` to preserve all diagnosis rows per encounter.
 
 ### 20.5 Recommended screenshots and evidence
 
 Store the existing relationship-mapping screenshots and page screenshots under `docs/`, and SQL reconciliation queries/results under `validation/`. For this issue, useful evidence includes the relationship list before/after the change, the Patient Detail page showing Diagnosis History, and a primary-diagnosis selection that retains secondary diagnosis rows where intended. Do not invent filenames or assert that these particular screenshots have already been committed.
+
+---
+
+## 21. Final Power BI model correction: complete patient history across 2024–2025 (November 22, 2026)
+
+> **Current implementation — supersedes the temporary solutions in Sections 14.6 and 20.** The final Power BI model no longer contains `Dim_Patient_Bridge` or `Diagnosis_Detail`. The problematic primary-diagnosis-key relationship was also removed. The warehouse's original diagnosis records remain available through `Dim_Diagnoses`; the change was to Power BI modeling and filter paths, not deletion of clinical diagnoses from the warehouse.
+
+### 21.1 Business requirement
+
+The **Patient Encounter Details** drillthrough page must display the selected patient's complete history for the chosen year: Patient Profile, Encounter History, Diagnosis History (both primary and secondary), Procedure History, Lab History, Medication History, and Claims & Billing History. The date/year selection must work for **both 2024 and 2025**, and the displayed encounter/diagnosis rows must agree with SQL Server.
+
+### 21.2 Symptoms and investigation
+
+- The Patient Profile could populate while encounter-dependent visuals were blank for 2025, even when SQL confirmed the patient had 2025 encounters.
+- At one point the Patient Detail page showed only 2024 records or only primary diagnoses. SQL confirmed the missing 2025 rows existed in the warehouse.
+- Diagnostic cards and SQL checks distinguished **underlying row availability** from **filter-path behavior**. For patient `PAT000153`, the model contained **13 encounters** across 2024–2025 and **19 diagnosis records** when the interfering primary-diagnosis-key path was removed.
+- Tests confirmed the date dimension had 2025 dates and that encounter visit dates and date keys matched SQL. The symptoms were therefore not explained simply by missing source rows or an absent 2025 calendar.
+- The earlier `Dim_Patient_Bridge` and `Diagnosis_Detail` approach, together with the primary-diagnosis-key relationship, added competing or restrictive paths. The primary-diagnosis-key path was particularly incompatible with a detail visual that must retain **secondary** diagnosis rows.
+
+### 21.3 Final implemented resolution
+
+1. **Removed `Dim_Patient_Bridge`** from the Power BI semantic model.
+2. **Removed `Diagnosis_Detail`**, the previously created calculated diagnosis reporting table. Diagnosis History now uses the underlying diagnosis data rather than that duplicated calculated table.
+3. **Removed the problematic primary-diagnosis-key relationship** from the Power BI model. A primary-diagnosis relationship must not restrict the complete diagnosis history to only primary rows.
+4. Retained the patient/encounter-based filtering needed for drillthrough and verified the related history visuals against SQL. The final relationship diagram in `docs/` and saved `.pbix` are the sources of truth for exact active relationships, cardinalities, and directions; no additional unverified relationship settings are asserted here.
+5. Preserved `primary_flag` as a **displayed diagnosis attribute** so both `Yes` and `No` records remain visible. Do not reapply a report-wide `primary_flag = Yes` filter to the full diagnosis-history page.
+
+**Important distinction:** `Dim_Encounters[diagnosis_code]` represents the encounter's recorded primary diagnosis for encounter-level reporting; it is **not** a replacement for all rows in `Dim_Diagnoses`. Use the appropriate diagnosis grain when showing a patient's complete history. The encounter-level primary-diagnosis slicer described in Section 14.5 is a separate reporting concept; verify its final usage against the saved PBIX rather than assuming the removed primary-diagnosis-key relationship still exists.
+
+### 21.4 SQL-to-Power BI validation
+
+**Patient `PAT000066` — Parker Clark:** The following counts were checked against the displayed 2024 and 2025 Patient Detail screenshots and SQL Server results.
+
+| History section | 2024 | 2025 |
+|---|---:|---:|
+| Encounter History | 1 | 4 |
+| Diagnosis History (primary + secondary) | 2 | 5 |
+| Claims & Billing History | 1 | 2 |
+| Medication History | 1 | 3 |
+| Lab History | 0 | 3 |
+| Procedure History | 1 | 2 |
+
+The patient profile appeared for both years, and the 2024 and 2025 history rows matched the SQL validation samples. The 2024 diagnosis history included one primary and one secondary diagnosis for its encounter; the 2025 diagnosis history included both primary and secondary flags across four encounters. These are **tested patient-level results**, not a claim that every patient and every report interaction has been exhaustively regression-tested.
+
+A second diagnostic example, **`PAT000153`**, confirmed that removing the restrictive primary-diagnosis-key path exposed **13 encounters and 19 diagnosis rows** across the two years. This helped isolate the issue to model filtering rather than missing warehouse data.
+
+### 21.5 Final-model documentation and regression checks
+
+- Replace obsolete relationship screenshots in `docs/` with a current model screenshot showing the removed tables/relationship are absent.
+- Save the updated `powerbi/Hospital Operations & Financial Analytics.pbix` and commit it alongside this README.
+- Store corresponding SQL checks and evidence captures in `validation/` using the existing repository organization.
+- Recheck 2024/2025 year slicers, patient drillthrough, all-diagnosis history, claims, labs, procedures, medications, and other pages after model refresh.
+- Validate that patient/provider SCD2 active-version filtering remains consistent and that no diagnosis, encounter, or financial measures multiply rows through ambiguous joins.
+
+**Engineering takeaway:** When detail records disappear despite being present in SQL, validate the source grain and filter propagation before adding calculated tables or bidirectional relationships. In this case, **simplifying the model** restored the intended complete patient history more effectively than maintaining the temporary bridge and calculated diagnosis-detail workarounds.
 
 ---
 
@@ -1262,7 +1320,7 @@ The project covers the complete data lifecycle, from source data exploration and
 | **Data Engineering** | ETL pipeline development, automated data ingestion, data transformation, incremental processing |
 | **SQL Development** | Microsoft SQL Server, T-SQL, stored procedures, dynamic SQL, CTEs, joins, transactions, error handling |
 | **Data Warehousing** | Staging, ODS, dimensional modeling, fact and dimension tables, surrogate keys, SCD Type 1 and Type 2 |
-| **Data Modeling** | Star schema design, table relationships, cardinality, filter direction, bridge tables, referential integrity |
+| **Data Modeling** | Star schema design, table relationships, cardinality, filter direction, SCD2 surrogate keys, elimination of unnecessary bridge tables, referential integrity |
 | **Data Quality Engineering** | Data profiling, cleansing, deduplication, validation, exception handling, reconciliation |
 | **ETL Automation** | Configuration-driven execution, dynamic BULK INSERT, BCP exports, ETL logging, execution auditing |
 | **Business Intelligence** | Power BI Desktop, interactive dashboards, KPI development, report navigation, drillthrough |
