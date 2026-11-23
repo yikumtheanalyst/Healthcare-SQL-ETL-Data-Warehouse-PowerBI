@@ -1,0 +1,5 @@
+AppealStatusKey,AppealStatus
+"2","Approved"
+"4","Denied"
+"3","Not Appealed"
+"1","Pending"
